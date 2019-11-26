@@ -1,0 +1,3940 @@
+{
+    "アヤネ（クリスマス）": {
+        "document": {
+            "CV": "芹澤優",
+            "age": "14",
+            "birthday": "5月10日",
+            "bloodtype": "B",
+            "hight": "148",
+            "hobby": "屋内でできる遊び",
+            "intro": "【物理】前衛で、敵をなぎ倒していく聖夜のくまっ子。 ユニオンバーストはＨＰを消費するが威力は絶大。 スキルで物理攻撃力を上げ、さらにダメージアップ。",
+            "name": "アヤネ（クリスマス）",
+            "raise": "ヒューマン",
+            "weight": "38"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108631.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%82%A2%E3%83%A4%E3%83%8D%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89",
+        "skill": {
+            "info": [
+                "敵単体に【80.0 + 80.0*技能等級 + 7.4 *atk】の物理ダメージ",
+                "自分の物理攻撃力を【22.0 + 22.0*技能等級 】アップ\n\n持續時間: 10.0 秒",
+                "敵単体に【12.0 + 12.0*技能等級 + 1.0 *atk】の物理ダメージ",
+                "自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の物理攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "ぷうきちサンタ・ストーム",
+                "ぷうきちエール",
+                "ぷうきちラッシュ",
+                "ホーリーナイトスラッガー",
+                "ホーリーナイトスラッガー+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "エリコ（バレンタイン）": {
+        "document": {
+            "CV": "橋本ちなみ",
+            "age": "16",
+            "birthday": "7月30日",
+            "bloodtype": "B",
+            "hight": "154",
+            "hobby": "実験、裁縫、料理",
+            "intro": "【物理】前衛で、ピンチをチャンスに変える愛の壊し屋。 スキルはＨＰを消費し、自身の攻撃力を高める。また、 ユニオンバーストはＨＰが低いほど超絶威力を発揮する。",
+            "name": "エリコ（バレンタイン）",
+            "raise": "魔族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_109011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%82%A8%E3%83%AA%E3%82%B3%EF%BC%88%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%EF%BC%89",
+        "skill": {
+            "info": [
+                "",
+                "",
+                "自分のＨＰを【0.0 + 0.0*技能等級 + 1.5 *atk】消費",
+                "自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の物理攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "ラブパニッシュメント",
+                "ヘヴィミキシング",
+                "スウィートサクリファイス",
+                "ディープスピリット",
+                "ディープスピリット+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "クルミ（クリスマス）": {
+        "document": {
+            "CV": "植田佳奈",
+            "age": "12",
+            "birthday": "6月9日",
+            "bloodtype": "B",
+            "hight": "150",
+            "hobby": "観劇、おままごと",
+            "intro": "【物理】前衛から、ベルの音色で味方を守る小さな女優。 攻撃を受けるまで周囲にいる味方の防御力を大きく高める スキルを持つ。活用できれば無類の耐久力を誇る。",
+            "name": "クルミ（クリスマス）",
+            "raise": "ヒューマン",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108511.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%82%AF%E3%83%AB%E3%83%9F%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89",
+        "skill": {
+            "info": [
+                "味方全体の魔法防御力を【0.69 + 0.69*技能等級 】アップ\n\n持續時間: 18.0 秒",
+                "ベルを鳴らしている間、範囲内の味方の物理防御力を【undefined】アップ\n   \n範圍 : 300",
+                "毎秒ＨＰを【0.5 + 0.5*技能等級 + 0.05 *atk 持續8.0秒】回復するフィールドを展開する",
+                "自分の魔法防御力を【2.0 + 2.0*技能等級 】アップ",
+                "自分の魔法防御力を【32.0 + 2.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "ウィンターコールベル",
+                "ベルチアリング",
+                "ヒーリングベル",
+                "セイントエトワール",
+                "セイントエトワール+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "シズル（バレンタイン）": {
+        "document": {
+            "CV": "生天目仁美",
+            "age": "18",
+            "birthday": "10月24日",
+            "bloodtype": "O",
+            "hight": "168",
+            "hobby": "家事全般",
+            "intro": "【物理】中衛で皆を助けるパティシエールのお姉ちゃん。 複数のパラメータが同時に上昇するフィールドを展開し、 さらに効果時間中はスキル効果が大幅に強化される。",
+            "name": "シズル（バレンタイン）",
+            "raise": "ヒューマン",
+            "weight": "54"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_109131.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%82%B7%E3%82%BA%E3%83%AB%EF%BC%88%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%EF%BC%89",
+        "skill": {
+            "info": [
+                "物理攻撃力を【12.0 + 12.0*技能等級 】アップさせるフィールドを展開する\n \n持續時間: 16.0 秒",
+                "",
+                "",
+                "自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の物理攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "スウィートサンクチュアリ",
+                "キュアネスサイン",
+                "セグメントハートショット",
+                "お姉ちゃんピュアハート",
+                "お姉ちゃんピュアハート+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "チカ（クリスマス）": {
+        "document": {
+            "CV": "福原綾香",
+            "age": "17",
+            "birthday": "6月3日",
+            "bloodtype": "O",
+            "hight": "163",
+            "hobby": "各種楽器",
+            "intro": "【魔法】後衛で、精霊を唱喚して戦う雪華の歌姫。 ユニオンバーストで呼び出す精霊たちはＨＰやＴＰを 回復する能力を持ち、不利な戦況をも一変させる。",
+            "name": "チカ（クリスマス）",
+            "raise": "ヒューマン",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108431.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%81%E3%82%AB%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89",
+        "skill": {
+            "info": [
+                "魔法攻撃を行う精霊を唱喚する",
+                "味方単体の物理攻撃力を【20.0 + 20.0*技能等級 】アップ\n\n持續時間: 12.0 秒",
+                "範囲内の味方の物理防御力を【0.9 + 0.9*技能等級 】アップ\n\n持續時間: 12.0 秒\n   \n範圍 : 200",
+                "自分の魔法攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の魔法攻撃力を【15.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "シルフィードキャロル",
+                "アセンションワルツ",
+                "ガーディアンメロディ",
+                "ギフテッドアンセム",
+                "ギフテッドアンセム+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "ナナカ": {
+        "document": {
+            "CV": "佳村はるか",
+            "age": "18",
+            "birthday": "8月21日",
+            "bloodtype": "O",
+            "hight": "166",
+            "hobby": "讀書、魔法",
+            "intro": "【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。 体力が一番多い相手を狙うユニオンバーストやスキルは、 敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。",
+            "name": "ナナカ",
+            "raise": "魔族",
+            "weight": "55"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101311.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%8A%E3%83%8A%E3%82%AB",
+        "skill": {
+            "info": [
+                "敵単体に【60.0 + 60.0*技能等級 + 5.6 *atk】の魔法ダメージ",
+                "",
+                "敵単体に【20.0 + 20.0*技能等級 + 1.6 *atk】の魔法ダメージ",
+                "自分の魔法攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の魔法攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "ナナカ・∞・ブラスト",
+                "スターダストマジック",
+                "エナジーインパクト",
+                "アウェイクニングモード",
+                "アウェイクニングモード+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "ヒヨリ（ニューイヤー）": {
+        "document": {
+            "CV": "東山奈央",
+            "age": "16",
+            "birthday": "8月27日",
+            "bloodtype": "A",
+            "hight": "155",
+            "hobby": "人助け、応援",
+            "intro": "【物理】前衛で、物理火力を担う、振り袖姿の元気娘。 物理攻撃キャラの攻撃力を上昇させるスキルを使う。 さらに高い威力の単体ユニオンバーストの攻撃力は随一。",
+            "name": "ヒヨリ（ニューイヤー）",
+            "raise": "獣人族",
+            "weight": "44"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108731.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%92%E3%83%A8%E3%83%AA%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+        "skill": {
+            "info": [
+                "敵単体に【52.0 + 52.0*技能等級 + 4.4 *atk】の物理ダメージ",
+                "自分の物理攻撃力を【9.0 + 9.0*技能等級 】アップ\n\n持續時間: 12.0 秒",
+                "敵単体に【20.0 + 20.0*技能等級 + 1.6 *atk】の物理ダメージ",
+                "自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の物理攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "ヒヨリハッピースタンプ",
+                "肉球チャージ",
+                "グッドラックパンチ",
+                "ハッピーストレングス",
+                "ハッピーストレングス+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "ムイミ": {
+        "document": {
+            "CV": "潘めぐみ",
+            "age": "16",
+            "birthday": "8月11日",
+            "bloodtype": "O",
+            "hight": "148",
+            "hobby": "冒険、思い出話",
+            "intro": "【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。 小技を駆使する通常の戦闘スタイルから一転、ユニオン バースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。",
+            "name": "ムイミ",
+            "raise": "ヒューマン",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_106131.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%A0%E3%82%A4%E3%83%9F",
+        "skill": {
+            "info": [
+                "",
+                "斬撃で範囲内の敵に【3.4 + 3.4*技能等級 + 0.27 *atk】の物理ダメージ\n   \n範圍 : 280",
+                "範囲内の敵の物理防御力を【0.375 + 0.375*技能等級 】ダウン\n\n持續時間: 12.0 秒\n   \n範圍 : 280",
+                "自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の物理攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "天楼覇断剣",
+                "ビビらせてやる！",
+                "こっちだこっち！",
+                "ポテンシャルフォース",
+                "ポテンシャルフォース+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "ユイ（ニューイヤー）": {
+        "document": {
+            "CV": "種田梨沙",
+            "age": "17",
+            "birthday": "4月5日",
+            "bloodtype": "O",
+            "hight": "158",
+            "hobby": "料理、人間観察",
+            "intro": "【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。 自身の攻撃力と引き換えに強力なバリアと継続回復状態を 味方全体に付与する。絶大な防御能力は他を圧倒する。",
+            "name": "ユイ（ニューイヤー）",
+            "raise": "ヒューマン",
+            "weight": "47"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108831.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%A6%E3%82%A4%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+        "skill": {
+            "info": [
+                "【45.0 + 45.0*技能等級 】ダメージ分の物理魔法無効バリアを展開する",
+                "敵単体の物理攻撃力を【5.5 + 5.5*技能等級 】ダウン\n\n持續時間: 12.0 秒",
+                "対象の味方の魔法攻撃力を【11.0 + 11.0*技能等級 】アップ\n\n持續時間: 12.0 秒",
+                "自分の魔法攻撃力を【15.0 + 15.0*技能等級 】アップ",
+                "自分の魔法攻撃力を【240.0 + 15.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "サンライズプロテクション",
+                "ウィークネスペタル",
+                "ブルーミングチアーズ",
+                "ブライトネスニューイヤー",
+                "ブライトネスニューイヤー+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "レイ（ニューイヤー）": {
+        "document": {
+            "CV": "早見沙織",
+            "age": "18",
+            "birthday": "1月12日",
+            "bloodtype": "B",
+            "hight": "163",
+            "hobby": "読書、乗馬、お茶",
+            "intro": "【物理】前衛で、魔法攻撃から味方を守る、華麗な剣士。 スキルで範囲内の味方に魔法無効バリアを展開し、 さらにユニオンバーストで敵をスタンさせ攻撃を断つ。",
+            "name": "レイ（ニューイヤー）",
+            "raise": "魔族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108911.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E3%83%AC%E3%82%A4%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89",
+        "skill": {
+            "info": [
+                "敵全体に【12.0 + 12.0*技能等級 + 1.08 *atk】の物理ダメージ",
+                "敵全体を挑発する",
+                "【10.0 + 10.0*技能等級 】ダメージ分の魔法無効バリアを展開する\n   \n範圍 : 280",
+                "自分の魔法防御力を【2.0 + 2.0*技能等級 】アップ",
+                "自分の魔法防御力を【32.0 + 2.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "細氷剣・雪華",
+                "雪崩返し",
+                "白銀冬仕度",
+                "氷壁の構え",
+                "氷壁の構え+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "亞里莎": {
+        "document": {
+            "CV": "優木かな",
+            "age": "15",
+            "birthday": "6月17日",
+            "bloodtype": "O",
+            "hight": "155",
+            "hobby": "蒐集漂亮的葉子",
+            "intro": "【物理】後衛，在長期戰中表現優秀，是森林守護者的見習生。 能藉由恢復 TP 發動必殺技的速攻。 並且，因為使用後技能效果會上升，以高殲滅能力著稱。",
+            "name": "亞里莎",
+            "raise": "精靈族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_106331.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E4%BA%9E%E9%87%8C%E8%8E%8E",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成特大幅度的物理傷害。若已使用此技能，則能增加傷害幅度。\r\n \n   \r\n對敵方單體造成【50.0 + 50.0*技能等級 + 4.2 *atk】的物理傷害\r\n   \r\n使用必殺技後，對敵方單體造成【80.0 + 80.0*技能等級 + 6.4 *atk】的物理傷害\r\n   \n   ",
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成小幅度的物理傷害，並小幅降低其行動速度。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \r\n一段時間內降低敵方單體的行動速度\r\n \r\n持續時間: 8.0 秒\r\n  ",
+                "  \r\n中幅度恢復自己的 TP。已使出「我的箭矢將把你貫穿！」時，恢復幅度將會增加。\r\n \n   \r\n回復自身【125.0 + 1.25*技能等級 】的TP\r\n   \r\n使用必殺技後，回復自身【200.0 + 2.0*技能等級 】的TP\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成中幅度的物理傷害，並小幅度降低其魔法攻擊力與行動速度。\r\n \r\n敵単体に【20.0 + 20.0*技能等級 + 1.6 *atk】の物理ダメージ\r\n   \r\n敵単体の行動速度を一定時間低下させる\r\n \r\n持續時間: 8.0 秒\r\n  \r\n敵単体の魔法攻撃力を【3.75 + 3.75*技能等級 】ダウン\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "我的箭將把你貫穿！",
+                "纏繞常春藤",
+                "羽翼光輝",
+                "精靈的弓術",
+                "精靈的弓術+",
+                "纏繞常春藤+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "アリサが愛用している大弓。エルフ の間に伝わる伝説の弓であり、構え るだけで標的の動きは止まり、放た れる矢はあらゆる物質を射貫く。",
+            "name": "クインティタニアス",
+            "status": [
+                "物理攻撃力",
+                "95.0 (708)",
+                "物理暴擊",
+                "16.0 (119.2)"
+            ]
+        }
+    },
+    "伊緒": {
+        "document": {
+            "CV": "伊藤靜",
+            "age": "23",
+            "birthday": "8月14日",
+            "bloodtype": "B",
+            "hight": "162",
+            "hobby": "看戀愛小說、戀愛劇、戀愛漫畫",
+            "intro": "【魔法】在後方誘惑全體敵人的性感老師。 以奪取敵人ＴＰ技能使其必殺技延遲發動， 或施放誘惑的必殺技，使戰場陷入大混亂。",
+            "name": "伊緒",
+            "raise": "魔族",
+            "weight": "52"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101831.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E4%BC%8A%E7%B7%92",
+        "skill": {
+            "info": [
+                "對敵方全體造成【4.5 + 4.5*技能等級 + 0.405 *atk】的魔法傷害",
+                "",
+                "使敵方單體失去【50.0 + 1.0*技能等級 】的TP",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "心型 Love 風暴",
+                "尾巴鞭擊",
+                "靈魂吸取",
+                "甜美愛心",
+                "甜美愛心+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "伊莉亞": {
+        "document": {
+            "CV": "丹下櫻",
+            "age": "??",
+            "birthday": "5月5日",
+            "bloodtype": "A",
+            "hight": "172",
+            "hobby": "征服世界",
+            "intro": "【魔法】位於中衛，削弱生命來攻擊的「統御黑夜之人」。 以自己 HP 交換而發出的技能擁有高度殲滅能力，範圍攻擊的威力無人能及。",
+            "name": "伊莉亞",
+            "raise": "魔族",
+            "weight": "50"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104431.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E4%BC%8A%E8%8E%89%E4%BA%9E",
+        "skill": {
+            "info": [
+                "",
+                "消耗自身【0.0 + 0.0*技能等級 + 1.0 *atk】的HP",
+                "消耗自身【0.0 + 0.0*技能等級 + 1.0 *atk】的HP",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "朱色之嚙",
+                "蔓延炸裂",
+                "嗜血貴族",
+                "血之契約",
+                "血之契約+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "依里": {
+        "document": {
+            "CV": "原紗友里",
+            "age": "13",
+            "birthday": "11月22日",
+            "bloodtype": "O",
+            "hight": "150",
+            "hobby": "所有遊戲",
+            "intro": "【魔法】位於中衛，發散強力的魔法，是雙胞胎中的姊姊。 可以犧牲自身的 HP，來增強魔法攻擊力， 能使得必殺技與技能的威力更上一層樓。",
+            "name": "依里",
+            "raise": "魔族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102211.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E4%BE%9D%E9%87%8C",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的魔法傷害。\r\n \r\n對範圍內的敵人造成【18.0 + 18.0*技能等級 + 1.44 *atk】的魔法傷害\r\n   \r\n範圍 : 825\r\n",
+                "  \r\n消耗 HP，大幅度提升自己的魔法攻擊力。\r\n \r\n消耗自身【0.0 + 0.0*技能等級 + 0.6 *atk】的HP\r\n   \r\n提升自身【20.0 + 20.0*技能等級 】的魔法攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n對前方範圍內的全體敵人造成中幅度的魔法傷害。\r\n \r\n對範圍內的敵人造成【9.0 + 9.0*技能等級 + 0.72 *atk】的魔法傷害\r\n   \r\n範圍 : 800\r\n",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n消耗 HP，特大幅度提升自己的魔法攻擊力，並中幅度恢復 TP。\r\n \r\n自分のＨＰを【0.0 + 0.0*技能等級 + 0.6 *atk】消費\r\n   \r\n自分の魔法攻撃力を【50.0 + 50.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自分のＴＰを【100.0 + 1.0*技能等級 】回復\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "雷霆標槍",
+                "過載充能",
+                "闇影炸裂",
+                "雷霆增幅",
+                "雷霆增幅+",
+                "過載充能+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "ヨリの魔力を増幅することに特化さ れた魔槍。生命力と引き換えに得る 魔力は、一振りで周囲を灰燼と化す ほどのもの。",
+            "name": "デモンズジャベリン",
+            "status": [
+                "魔法防禦",
+                "1.0 (8)",
+                "魔法攻擊力",
+                "85.0 (634)",
+                "魔法暴擊",
+                "10.0 (75)"
+            ]
+        }
+    },
+    "優花梨": {
+        "document": {
+            "CV": "今井麻美",
+            "age": "22",
+            "birthday": "3月16日",
+            "bloodtype": "A",
+            "hight": "164",
+            "hobby": "隨意逛街",
+            "intro": "【物理】位於中衛，能以屏障和恢復守護己方的曾經的聖戰士。 能夠操作受傷的己方角色恢復 HP 與 TP 的技能，進而在你來我往的消耗戰中，給出相當關鍵的支援。",
+            "name": "優花梨",
+            "raise": "精靈族",
+            "weight": "55"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103411.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%84%AA%E8%8A%B1%E6%A2%A8",
+        "skill": {
+            "info": [
+                "  \r\n對己方全體展開魔法無效的屏障。\r\n \r\n展開【18.0 + 18.0*技能等級 】傷害量的魔法無效護盾\r\n   ",
+                "  \r\n中幅度恢復 HP 最低的 1 名己方角色的 HP。\r\n \r\n回復我方單體【7.5 + 7.5*技能等級 + atk】的HP\r\n   ",
+                "  \r\n中幅度恢復 TP 最低的 1 名己方角色的 TP。\r\n \r\n回復我方單體【75.0 + 2.5*技能等級 】的TP\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法防禦力，並小幅度提升自己的物理攻擊力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的魔法防禦力\r\n   \r\n提升自身【225.0 + 0.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n大幅度恢復 HP 最低的 1 名夥伴的 HP，並中幅度提升其魔法防禦力，再施加持續恢復 HP 的狀態。\r\n \r\n味方単体のＨＰを【10.0 + 10.0*技能等級 + atk】回復\r\n   \r\n味方単体の魔法防御力を【0.8 + 0.8*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n毎秒ＨＰを【0.5 + 0.08*atk 持續8.5秒】回復する\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "七面紗",
+                "阿夸維特",
+                "月光",
+                "前奏防護",
+                "前奏防護+",
+                "阿夸維特+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "ユカリが手放せないジョッキ。飲ん でも飲んでも湧き出てくる命の水が 所有者の体に染み渡り、その体に溢 れんばかりの活力を与えてくれる。",
+            "name": "エターナルジョッキ",
+            "status": [
+                "魔法防禦",
+                "3.0 (23)",
+                "物理攻撃力",
+                "64.0 (477)",
+                "回復量上升",
+                "12.0 (90)"
+            ]
+        }
+    },
+    "優衣": {
+        "document": {
+            "CV": "種田梨沙",
+            "age": "17",
+            "birthday": "4月5日",
+            "bloodtype": "O",
+            "hight": "158",
+            "hobby": "料理、觀察人類",
+            "intro": "【魔法】位於最後列，恢復及輔助己方的魔法師。 打擊力量微弱，但擁有高度魔法攻擊力，當 Rank 上升，其攻擊力及輔助能力將會取得平衡。",
+            "name": "優衣",
+            "raise": "人族",
+            "weight": "47"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100211.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%84%AA%E8%A1%A3",
+        "skill": {
+            "info": [
+                "  \r\n使己方全體恢復中幅度的 HP。\r\n \r\n回復我方全體【6.0 + 6.0*技能等級 + atk】的HP\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的魔法傷害\r\n   ",
+                "  \r\n小幅度提升己方全體的物理防禦力。\r\n \r\n提升我方全體【0.23 + 0.23*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力，並小幅提升自己的魔法防禦力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害，並中幅度降低其物理攻擊力。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害\r\n   \r\n降低敵方單體【7.5 + 7.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "全體治癒",
+                "花朵射擊",
+                "花朵護盾",
+                "花朵氣場",
+                "花朵氣場+",
+                "魔花攻擊+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "優衣配戴的髮箍。 造型可愛的花蕾絲與裝飾， 讓守護夥伴的治療之力 更為提升。",
+            "name": "繁花之願",
+            "status": [
+                "物理防禦",
+                "5.0 (38)",
+                "魔法防禦",
+                "5.0 (38)",
+                "魔法攻擊力",
+                "46.0 (343)",
+                "回復量上升",
+                "5.0 (38)"
+            ]
+        }
+    },
+    "克莉絲提娜": {
+        "document": {
+            "CV": "たかはし智秋",
+            "age": "27",
+            "birthday": "2月7日",
+            "bloodtype": "O",
+            "hight": "165",
+            "hobby": "和強敵之間的競爭",
+            "intro": "【物理】在前方擁有絕對壓制力的『誓約女君』。 同時擁有攻防一體超大破壞力的必殺技， 以及可將其加速發動的ＴＰ上昇技能。",
+            "name": "克莉絲提娜",
+            "raise": "人族",
+            "weight": "??"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107131.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%85%8B%E8%8E%89%E7%B5%B2%E6%8F%90%E5%A8%9C",
+        "skill": {
+            "info": [
+                "對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\n\n持續時間: 15.0 秒",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "數幻境",
+                "聚力",
+                "破甲擊",
+                "點火執行",
+                "點火執行+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "凱留": {
+        "document": {
+            "CV": "立花理香",
+            "age": "14",
+            "birthday": "9月2日",
+            "bloodtype": "A",
+            "hight": "152",
+            "hobby": "和貓咪玩耍",
+            "intro": "【魔法】位於後衛，能施以強力的全體攻擊，是一隻頑強的貓娘。 技能可以使敵人的物理、魔法防禦力雙雙減弱， 對於綜合編成隊伍的戰鬥中有著奇效。",
+            "name": "凱留",
+            "raise": "獸人族",
+            "weight": "39"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_106011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%87%B1%E7%95%99",
+        "skill": {
+            "info": [
+                "  \r\n對全體敵人造成中幅度的魔法傷害。\r\n \r\n對敵方全體造成【12.0 + 12.0*技能等級 + 1.08 *atk】的魔法傷害\r\n   \r\n範圍 : 3000\r\n",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理防禦力與魔法防禦力下降。\r\n \r\n降低敵方單體【0.4 + 0.4*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n降低敵方單體【0.4 + 0.4*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n對眼前一名敵人角色造成中幅度魔法傷害，對其周圍的敵人也造成小幅度魔法傷害，及小幅度下降其魔法防禦力。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害\r\n   \n   \r\n對範圍內的所有敵人造成【4.5 + 4.5*技能等級 + 0.36 *atk】魔法傷害\r\n   \r\n範圍 : 200\r\n\r\n使範圍內所有敵人的魔法防禦力下降【0.1425 + 0.1425*技能等級 】\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 200\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "格林炸裂",
+                "電光球",
+                "護甲削弱",
+                "暗黑日蝕",
+                "暗黑日蝕+",
+                "雷光彈+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "凱留攜帶的魔導書。 只要控制書中滿載的浩大魔力， 就能自由操控所記載的 強大術式。",
+            "name": "混沌魔典",
+            "status": [
+                "魔法攻擊力",
+                "94.0 (701)",
+                "魔法暴擊",
+                "10.0 (75)"
+            ]
+        }
+    },
+    "凱留（夏日）": {
+        "document": {
+            "CV": "立花理香",
+            "age": "14",
+            "birthday": "9月2日",
+            "bloodtype": "A",
+            "hight": "152",
+            "hobby": "和貓咪玩耍",
+            "intro": "【魔法】位於後衛，可施展強力單體攻擊的盛夏貓娘。 以技能降低敵人的魔法防禦力後， 不斷對敵方單體施放魔法攻擊，能夠帶來大量的傷害。",
+            "name": "凱留（夏日）",
+            "raise": "獸人族",
+            "weight": "39"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107831.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%87%B1%E7%95%99%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "對敵方單體造成【60.0 + 60.0*技能等級 + 5.0 *atk】的魔法傷害",
+                "對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害",
+                "對敵方單體造成【8.0 + 8.0*技能等級 + 0.6 *atk】的魔法傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "憤怒泳圈亂擲",
+                "水彈射擊",
+                "螺旋海浪",
+                "水之連結",
+                "水之連結+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "初音": {
+        "document": {
+            "CV": "大橋彩香",
+            "age": "17",
+            "birthday": "12月24日",
+            "bloodtype": "A",
+            "hight": "156",
+            "hobby": "和妹妹一起玩、回籠覺、午睡、早睡",
+            "intro": "【魔法】位於後衛，擅長對付物理攻擊型敵軍， 是一位超能力少女。 因為能對物理攻擊型的敵軍發揮真正的價值， 因此可將物理攻擊型的敵軍給一網打盡。",
+            "name": "初音",
+            "raise": "精靈族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101231.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%88%9D%E9%9F%B3",
+        "skill": {
+            "info": [
+                "  \r\n對使用物理攻擊的敵人造成小幅度的魔法傷害，以及對全體敵人造成中幅度的魔法傷害。\r\n \r\n對使用物理攻擊的敵人追加【6.75 + 6.75*技能等級 + 0.54 *atk】的魔法傷害\r\n   \r\n對敵方全體造成【9.0 + 9.0*技能等級 + 0.81 *atk】的魔法傷害\r\n   ",
+                "  \r\n對物理攻擊力最高的 1 名敵人造成中幅度的魔法傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害\r\n   ",
+                "  \r\n對物理攻擊力最高的 1 名敵人造成小幅度的魔法傷害，並且使敵人暈眩。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的魔法傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n最も物理攻撃力が高い敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。\r\n \r\n敵単体に【22.0 + 22.0*技能等級 + 1.8 *atk】の魔法ダメージ\r\n   \r\n敵単体の魔法防御力を【0.2 + 0.2*技能等級 】ダウン\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "流星☆",
+                "精神☆炸裂",
+                "星光☆",
+                "歡樂☆能量",
+                "歡樂☆能量+",
+                "サイコ☆ブラスト+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "シオリからハツネへと贈られた妹お 手製のリボン。綺羅星に込められた シオリの想いが姉の魔力と呼応して 敵の魔法防御力を低下させる。",
+            "name": "ミーティア☆リボン",
+            "status": [
+                "物理防禦",
+                "1.0 (8)",
+                "魔法攻擊力",
+                "88.0 (656)",
+                "魔法暴擊",
+                "10.0 (75)"
+            ]
+        }
+    },
+    "千歌": {
+        "document": {
+            "CV": "福原綾香",
+            "age": "17",
+            "birthday": "6月3日",
+            "bloodtype": "O",
+            "hight": "163",
+            "hobby": "各種樂器",
+            "intro": "【魔法】位於後衛，能支持前衛戰鬥的吟遊詩人。 能以必殺技，召喚能幫助己方恢復，以及攻擊敵人的妖精到最前線。",
+            "name": "千歌",
+            "raise": "人族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104211.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%8D%83%E6%AD%8C",
+        "skill": {
+            "info": [
+                "回復範圍內的我方【5.25 + 5.25*技能等級 + atk】的HP",
+                "",
+                "降低敵方單體【7.5 + 7.5*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "希爾芙的祝福",
+                "加油之歌",
+                "妖精們的安眠曲",
+                "天賜之聲",
+                "天賜之聲+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "可可蘿": {
+        "document": {
+            "CV": "伊藤美來",
+            "age": "11",
+            "birthday": "5月11日",
+            "bloodtype": "B",
+            "hight": "140",
+            "hobby": "冥想、養育動植物",
+            "intro": "【物理】位於中衛，無論是輔助還是攻擊皆能支援，是一位負責指引迷津的巫女。 必殺技能增加己方全體的攻擊力， 且有使自己恢復的功能，因此能持續支援。",
+            "name": "可可蘿",
+            "raise": "精靈族",
+            "weight": "35"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105911.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%8F%AF%E5%8F%AF%E8%98%BF",
+        "skill": {
+            "info": [
+                "  \r\n小幅度提升己方全體的物理攻擊力與魔法攻擊力，並且小幅度恢復自己的 HP。\r\n \r\n提升我方全體【4.5 + 4.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n提升我方全體【4.5 + 4.5*技能等級 】的魔法攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n回復自身【12.0 + 12.0*技能等級 + atk】的HP\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \n   \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n小幅度提升己方全體的行動速度，以及小幅度提升物理攻擊力。\r\n \r\n提升我方全體的行動速度\r\n \r\n持續時間: 12.0 秒\r\n  \r\n提升我方全體【1.15 + 1.15*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的魔法防禦力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n對眼前一名敵人角色造成中幅度物理傷害，再中幅度提升自己的物理攻擊力，及小幅度提升TP上昇。\r\n \n   \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   \r\n提升自身【11.0 + 11.0*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n使自己的TP上昇提升【15.0 + 0.0*技能等級 】\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "極光",
+                "三重斬擊",
+                "速度上升",
+                "精靈的啟示",
+                "精靈的啟示+",
+                "三連斬+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "可可蘿配戴的花飾。 受到被祀奉為神的偉大存在之加持， 花中飄出的溫和香氣， 可以賦予戰鬥的勇氣。",
+            "name": "愛梅斯護符",
+            "status": [
+                "物理防禦",
+                "5.0 (38)",
+                "魔法防禦",
+                "5.0 (38)",
+                "物理攻撃力",
+                "50.0 (373)",
+                "回復量上升",
+                "5.0 (38)"
+            ]
+        }
+    },
+    "可可蘿（夏日）": {
+        "document": {
+            "CV": "伊藤美来",
+            "age": "11",
+            "birthday": "5月11日",
+            "bloodtype": "B",
+            "hight": "140",
+            "hobby": "冥想、養育動植物",
+            "intro": "【物理】位於中衛，是位可為物理角色進行輔助的治癒巫女。 擁有為ＨＰ最少的我方單體進行特大幅度恢復的技能， 可瞬間治癒我方瀕死的角色。",
+            "name": "可可蘿（夏日）",
+            "raise": "精靈族",
+            "weight": "35"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107611.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%8F%AF%E5%8F%AF%E8%98%BF%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "回復我方單體【22.5 + 22.5*技能等級 + atk】的HP",
+                "",
+                "提升我方全體【6.0 + 6.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【2.0 + 2.0*技能等級 】的魔法防禦力",
+                "提升自身【32.0 + 2.0*技能等級 】的魔法防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "海洋治癒",
+                "海寧芙之矛",
+                "柳橙支援",
+                "夏日天啟",
+                "夏日天啟+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "吉塔": {
+        "document": {
+            "CV": "金元壽子",
+            "age": "17",
+            "birthday": "3月10日",
+            "bloodtype": "O",
+            "hight": "156",
+            "hobby": "冒險、聊天",
+            "intro": "【物理】在前方先下手為強施展大招的騎空士。 藉由技能可恢復ＴＰ，加快必殺技的發動 從戰鬥初期就能對敵方前線造成大傷害。",
+            "name": "吉塔",
+            "raise": "人族",
+            "weight": "45"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105731.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%90%89%E5%A1%94",
+        "skill": {
+            "info": [
+                "對敵方單體造成【60.0 + 60.0*技能等級 + 4.8 *atk】的物理傷害",
+                "對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害",
+                "回復自身【150.0 + 1.5*技能等級 】的TP",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "暴風雨之劍",
+                "廣域之劍",
+                "武器破裂",
+                "龍捲風的攻刃",
+                "龍捲風的攻刃+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "咲戀": {
+        "document": {
+            "CV": "堀江由衣",
+            "age": "17",
+            "birthday": "10月4日",
+            "bloodtype": "A",
+            "hight": "156",
+            "hobby": "經營、茶會",
+            "intro": "【物理】位於中衛，能瞬間將局勢翻盤，是大家的咲戀媽媽。 有著 HP 越低，傷害力就越高的必殺技 和可以恢復己方的技能，一口氣逆轉局勢。",
+            "name": "咲戀",
+            "raise": "精靈族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102831.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%92%B2%E6%88%80",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害。當咲戀的 HP 越少時，造成的傷害越大。\r\n \n   \r\n對範圍內的敵人造成【18.0 + 18.0*技能等級 + 1.44 *atk】的物理傷害\r\n   \r\n範圍 : 700\r\n",
+                "  \r\n對前方範圍內的全體敵人造成小幅度的物理傷害。\r\n \r\n對範圍內的敵人造成【9.0 + 9.0*技能等級 + 0.72 *atk】的物理傷害\r\n   \r\n範圍 : 500\r\n",
+                "  \r\n中幅度恢復離自己最近的 1 名己方角色 TP。\r\n \r\n回復我方單體【75.0 + 2.5*技能等級 】的TP\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害。當咲戀的 HP 越少時，造成的傷害越大。\r\n \n   \r\n對範圍內的敵人造成【12.0 + 12.0*技能等級 + 0.9 *atk】的物理傷害\r\n   \r\n範圍 : 500\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "不死鳥之劍",
+                "火焰斬",
+                "優雅的聲援",
+                "典雅高貴靈魂",
+                "典雅高貴靈魂+",
+                "火焰斬+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "咲戀愛用的髮飾。 溫柔之中蘊含的強大正是其象徵。 當翅膀振動時， 能令身體從重力解放。",
+            "name": "榮耀之羽",
+            "status": [
+                "HP",
+                "25.0 (187)",
+                "物理攻撃力",
+                "105.0 (783)"
+            ]
+        }
+    },
+    "妮諾": {
+        "document": {
+            "CV": "佐藤聰美",
+            "age": "16",
+            "birthday": "8月31日",
+            "bloodtype": "O",
+            "hight": "163",
+            "hobby": "忍術開發",
+            "intro": "【物理】位於中衛，能反覆操作強力的範圍攻擊，是擅用忍術的熟手。 當範圍攻擊的技能將敵人擊敗時，可大幅地累積 TP， 發動強力必殺技的頻率也隨之提高。",
+            "name": "妮諾",
+            "raise": "人族",
+            "weight": "51"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103031.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%A6%AE%E8%AB%BE",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害。\r\n \r\n對範圍內的敵人造成【18.0 + 18.0*技能等級 + 1.44 *atk】的物理傷害\r\n   \r\n範圍 : 750\r\n",
+                "  \r\n對前方範圍內的全體敵人造成小幅度的物理傷害，並且若使用此技能將敵人擊倒，則能中幅度恢復自己的TP。\r\n \r\n對範圍內的敵人造成【9.0 + 9.0*技能等級 + 0.72 *atk】的物理傷害\r\n   \r\n範圍 : 750\r\n\n   \n   \r\n造成致命傷害時，回復自身【150.0 + 0.0*技能等級 】的TP\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並且小距離向後吹飛。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\r\n   \n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害，若以此技能打倒敵人，可特大幅度恢復自己的 TP。\r\n \r\n範囲内の敵に【15.0 + 15.0*技能等級 + 1.2 *atk】の物理ダメージ\r\n   \r\n範圍 : 750\r\n\n   \n   \r\nとどめを刺した時、自分のＴＰを【1000.0 + 0.0*技能等級 】回復\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "忍法灼熱地獄",
+                "旋風擊",
+                "火炎扇",
+                "本能寺增幅",
+                "本能寺增幅+",
+                "旋風擊+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "ニノンが愛用する軍配。 赤く染まった軍配が巻き起こす風は 爆炎をまとい、立ち塞がるすべてを 焼き尽くすまで消えることはない。",
+            "name": "紅蓮爆炎扇",
+            "status": [
+                "物理攻撃力",
+                "95.0 (708)",
+                "物理暴擊",
+                "15.0 (111.75)"
+            ]
+        }
+    },
+    "宮子": {
+        "document": {
+            "CV": "雨宮天",
+            "age": "14",
+            "birthday": "1月23日",
+            "bloodtype": "B",
+            "hight": "130",
+            "hobby": "吃布丁",
+            "intro": "【物理】在最前線專門閃避敵人攻擊的幽靈少女。 以技能變身成為幽靈來躲避敵人攻擊， 必殺技則是把敵人變成布丁吃掉。",
+            "name": "宮子",
+            "raise": "魔族",
+            "weight": "32"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100711.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%AE%AE%E5%AD%90",
+        "skill": {
+            "info": [
+                "對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害",
+                "一段時間內成為無敵狀態\n  \n持續時間: 3.0 + 0.01*技能等級 秒",
+                "回復自身【7.5 + 7.5*技能等級 + atk】的HP",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力",
+                "提升自身【32.0 + 2.0*技能等級 】的物理防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "把你變成布丁喲",
+                "我～好～恨～好～恨～喲",
+                "點心的時間喲",
+                "透明的幽靈呦～",
+                "透明的幽靈呦～+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "宮子（萬聖節）": {
+        "document": {
+            "CV": "雨宮天",
+            "age": "14",
+            "birthday": "1月23日",
+            "bloodtype": "B",
+            "hight": "130",
+            "hobby": "吃布丁",
+            "intro": "【物理】從中線狙擊敵陣後方的幽靈狼少女。 能無視前方對手，直接對敵陣後方施放必殺技或技能， 對防禦力低的角色特別有威脅性。",
+            "name": "宮子（萬聖節）",
+            "raise": "魔族",
+            "weight": "32"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108211.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%AE%AE%E5%AD%90%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89",
+        "skill": {
+            "info": [
+                "",
+                "",
+                "降低敵方單體【6.0 + 6.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "不給布丁就搗蛋哦",
+                "狼女來囉",
+                "妖怪旋轉木馬哦",
+                "凹嗚凹嗚喔～",
+                "凹嗚凹嗚喔～+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "忍": {
+        "document": {
+            "CV": "大坪由佳",
+            "age": "18",
+            "birthday": "12月22日",
+            "bloodtype": "AB",
+            "hight": "157",
+            "hobby": "占卜",
+            "intro": "【物理】位於中衛，能召喚父親的骷髏頭戰鬥的通靈少女。 召喚來的父親除了能和自己分開攻擊之外， 還能夠替自己抵擋傷害。",
+            "name": "忍",
+            "raise": "魔族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103111.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%BF%8D",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害，並且造成小幅度的物理防禦力下降。\r\n \r\n對範圍內的敵人造成【20.4 + 20.4*技能等級 + 1.62 *atk】的物理傷害\r\n   \r\n範圍 : 700\r\n\r\n降低範圍內的敵人【0.4275 + 0.4275*技能等級 】的物理防禦力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n範圍 : 700\r\n",
+                "  \r\n【召喚】在自己的面前，召喚骷髏頭以攻擊面前的 1 名敵人。\r\n \r\n召喚骷髏老爸\r\n   ",
+                "  \r\n對全體敵人造成小幅度的物理防禦力下降。\r\n \r\n降低敵方全體【0.15 + 0.15*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n【召喚】在自己前方召喚骷髏頭，對面前的 1 名敵人進行攻擊，並中幅度提升最前方角色範圍內夥伴的物理攻擊力。\r\n \r\nドクロ親父を召喚する\r\n   \n   \r\n範囲内の味方の物理攻撃力を【12.0 + 12.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 225\r\n\r\n範囲内の味方の物理クリティカルを【50.0 + 0.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 225\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "幻影說書人",
+                "幻影呼喚",
+                "幽魂弱化",
+                "暗夜的鎮魂曲",
+                "暗夜的鎮魂曲+",
+                "幻影呼喚+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "蒼き霊力の炎をまとった、 シノブ愛用の霊衣。 霊の依代となる特殊な糸で紡がれ、 霊たちの協力を得ることができる。",
+            "name": "グリムソウルローブ",
+            "status": [
+                "HP",
+                "250.0 (1863)",
+                "物理攻撃力",
+                "64.0 (477)",
+                "TP上升",
+                "2.0 (15)"
+            ]
+        }
+    },
+    "忍（萬聖節）": {
+        "document": {
+            "CV": "大坪由佳",
+            "age": "18",
+            "birthday": "12月22日",
+            "bloodtype": "AB",
+            "hight": "157",
+            "hobby": "占卜",
+            "intro": "【物理】在中線獵取虛弱敵人的幻夜靈力少女。 必殺技會對一名減弱的敵人造成大量傷害， 打倒對象時還會對敵人全體造成追加傷害。",
+            "name": "忍（萬聖節）",
+            "raise": "魔族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108131.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E5%BF%8D%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89",
+        "skill": {
+            "info": [
+                "對敵方單體造成【50.0 + 50.0*技能等級 + 4.0 *atk】的物理傷害",
+                "提升自身【20.0 + 20.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "對範圍內的敵人造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\n   \n範圍 : 800",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "萬聖夜驚魂",
+                "幽魂武器",
+                "恐懼之擊",
+                "冥界夜想曲",
+                "冥界夜想曲+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "怜": {
+        "document": {
+            "CV": "早見沙織",
+            "age": "18",
+            "birthday": "1月12日",
+            "bloodtype": "B",
+            "hight": "163",
+            "hobby": "讀書、騎馬、茶",
+            "intro": "【物理】位於前衛，能使出單點突破來討伐敵方，是一名孤高的劍士。 必殺技與一般技能，皆為了打倒眼前敵人而特化， 並驅使攻擊技能和反擊技能來壓制前線。",
+            "name": "怜",
+            "raise": "魔族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100311.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%80%9C",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成特大幅度的物理傷害。\r\n \r\n對敵方單體造成【60.0 + 60.0*技能等級 + 4.8 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。根據攻擊前處於戰鬥反擊姿勢時怜所受到傷害的比例，來提升造成的傷害。\r\n \n   \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的最高 HP。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   \r\n提升自身【1125.0 + 0.0*技能等級 】的最大HP\r\n   ",
+                "  \r\n對眼前一名敵人角色造成中幅度物理傷害，再小幅度降低其物理防禦力。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   \r\n降低敵方單體【0.6 + 0.6*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "斬擊風暴",
+                "狂風刺擊",
+                "反擊斬",
+                "高速刺擊",
+                "高速刺擊+",
+                "狂風壓境+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "怜愛用的手套。這副攻守兼備的手套 所打出的正拳突刺， 不論對上什麼敵人 都能夠打倒。",
+            "name": "雄風手套",
+            "status": [
+                "HP",
+                "110.0 (820)",
+                "物理攻撃力",
+                "95.0 (708)"
+            ]
+        }
+    },
+    "惠理子": {
+        "document": {
+            "CV": "橋本ちなみ",
+            "age": "16",
+            "birthday": "7月30日",
+            "bloodtype": "B",
+            "hight": "154",
+            "hobby": "實驗、裁縫、料理",
+            "intro": "【物理】位於前衛，以毒技能粉碎敵人，通稱破壞者。 擁有最頂級的攻擊力，用必殺技消滅敵人時，攻擊力會一次次的向上提升。",
+            "name": "惠理子",
+            "raise": "魔族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102711.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%83%A0%E7%90%86%E5%AD%90",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且若使用此技能將敵人擊倒，則自己的物理攻擊力將大幅度上升。\r\n \r\n對敵方單體造成【60.0 + 60.0*技能等級 + 4.5 *atk】的物理傷害\r\n   \n   \r\n造成致命傷害時，提升自身【22.5 + 22.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n小幅度提升自己的物理攻擊力。\r\n \r\n提升自身【7.5 + 7.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並且使其陷入中毒狀態。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\r\n   \r\n造成【2.0 + 2.0*技能等級 】傷害並施加中毒\r\n \r\n持續時間: 8.0 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n大幅度提升自己的物理攻擊力，並在短時間內特大幅度提升物理攻擊力與物理暴擊傷害。\r\n \r\n自分の物理攻撃力を【20.0 + 20.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自分の物理攻撃力を【90.0 + 90.0*技能等級 】アップ\r\n\r\n持續時間: 7.5 秒\r\n   \r\n自分の物理クリティカルを【400.0 + 0.0*技能等級 】アップ\r\n\r\n持續時間: 7.5 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "致命懲處",
+                "妄想",
+                "劇毒打擊",
+                "狂愛之力",
+                "狂愛之力+",
+                "妄想+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "過激な愛情を破壊力へと変転させる エリコ最狂の愛を錬成する霊斧。 一閃するたびに破滅への狂想曲が奏 でられる。",
+            "name": "ノーマーシー",
+            "status": [
+                "物理攻撃力",
+                "85.0 (634)",
+                "物理暴擊",
+                "20.0 (149)",
+                "TP上升",
+                "2.0 (15)"
+            ]
+        }
+    },
+    "日和": {
+        "document": {
+            "CV": "東山奈央",
+            "age": "16",
+            "birthday": "8月27日",
+            "bloodtype": "A",
+            "hight": "155",
+            "hobby": "助人、打氣加油",
+            "intro": "【物理】位於前衛，壓制敵方前線，精神百倍並帶著笑容的女孩。 擁有能大幅度攻擊前衛的必殺技，以及能加強自身攻擊力的技能的攻擊者。",
+            "name": "日和",
+            "raise": "獸人族",
+            "weight": "44"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100111.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%97%A5%E5%92%8C",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並造成附近小範圍內的所有敵人中幅度的物理傷害。\r\n \r\n對敵方單體造成【30.0 + 30.0*技能等級 + 2.4 *atk】的物理傷害\r\n   \n   \r\n對範圍內的敵人造成【13.5 + 13.5*技能等級 + 1.08 *atk】的物理傷害\r\n   \r\n範圍 : 400\r\n",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並中幅度的提升自己的物理攻擊力。\r\n \r\n對敵方單體造成【8.0 + 8.0*技能等級 + 0.6 *atk】的物理傷害\r\n   \r\n提升自身【11.0 + 11.0*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對眼前一名敵人角色造成大幅度物理傷害，並對其身邊小範圍內的所有敵人造成小幅度物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   \r\n對範圍內的敵人造成【9.0 + 9.0*技能等級 + 0.72 *atk】的物理傷害\r\n   \r\n範圍 : 400\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "日和衝擊",
+                "貓咪攻擊",
+                "貓咪聯合攻擊",
+                "肉球力量！",
+                "肉球力量！+",
+                "貓貓攻擊+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "日和配戴的腰帶。 有著猛獸睥睨眼神的扣環， 能鼓動鬥爭本能， 令拳頭更有勁道。",
+            "name": "喵王腰帶",
+            "status": [
+                "物理攻撃力",
+                "94.0 (701)",
+                "物理暴擊",
+                "20.0 (149)"
+            ]
+        }
+    },
+    "智": {
+        "document": {
+            "CV": "茅原實里",
+            "age": "13",
+            "birthday": "8月11日",
+            "bloodtype": "A",
+            "hight": "149",
+            "hobby": "劍術、戲弄長者",
+            "intro": "【物理】在前線施展快速斬擊屠殺敵人的劍術少女。 必殺技則是使自己的攻擊力和行動速度上昇， 將其他攻擊技能的殲滅能力提高到極限來輾壓敵人。",
+            "name": "智",
+            "raise": "人族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103731.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%99%BA",
+        "skill": {
+            "info": [
+                "對敵方單體造成【30.0 + 30.0*技能等級 + 2.25 *atk】的物理傷害",
+                "對範圍內的敵人造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\n   \n範圍 : 600",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "御久間流奧義‧阿修羅",
+                "御久間流劍術‧陣風",
+                "御久間流劍術‧燕還巢",
+                "氣脈呼應‧波動之型",
+                "氣脈呼應‧波動之型+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "望": {
+        "document": {
+            "CV": "日笠陽子",
+            "age": "17",
+            "birthday": "1月24日",
+            "bloodtype": "B",
+            "hight": "157",
+            "hobby": "看舞台劇，跳舞",
+            "intro": "【物理】位於前衛，成為大家的防護的偶像望望。 當她立於舞台上時，能夠大大提升己方的物理攻擊力， 並且還可以一人擔下敵方的注意。",
+            "name": "望",
+            "raise": "人族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102931.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%9C%9B",
+        "skill": {
+            "info": [
+                "  \r\n【挑釁】小幅度提升己方全體的物理攻擊力，並且中幅度提升自己的物理防禦力及魔法防禦力。再對全體敵人挑釁。\r\n \r\n提升我方全體【4.5 + 4.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n提升自身【1.8 + 1.8*技能等級 】的物理防禦力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n提升自身【1.8 + 1.8*技能等級 】的魔法防禦力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n挑釁敵方全體\r\n   ",
+                "  \r\n對前方範圍內的全體敵人造成小幅度的物理傷害，並且使敵人暈眩。\r\n \r\n對範圍內的敵人造成【3.4 + 3.4*技能等級 + 0.27 *atk】的物理傷害\r\n   \r\n範圍 : 280\r\n\r\n使範圍內的敵人一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  \r\n範圍 : 280\r\n",
+                "  \r\n小幅度恢復周圍所有己方的HP。\r\n \r\n回復範圍內的我方【3.5 + 3.5*技能等級 + atk】的HP\r\n   \r\n範圍 : 200\r\n",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理防禦力，並小幅度提升自己的魔法防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的物理防禦力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n對前方範圍內的所有敵人造成中幅度物理傷害，再使其暈眩並小幅度降低其物理攻擊力。\r\n \r\n對範圍內的敵人造成【8.0 + 8.0*技能等級 + 0.6 *atk】的物理傷害\r\n   \r\n範圍 : 280\r\n\r\n使範圍內的敵人一段時間內無法行動\r\n \r\n持續時間: 2.0 秒\r\n  \r\n範圍 : 280\r\n\r\n使範圍內敵人的物理攻擊力降低【1.5 + 1.5*技能等級 】\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 280\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "Live・Onstage",
+                "清晰斬擊",
+                "偶像的聲援",
+                "月光笑容",
+                "月光笑容+",
+                "眩光斬+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "小望專用的手持麥克風。在可愛的緞帶中央 畫有【慈樂之音】 的標誌。拿到手上 就能向頂級偶像邁進。",
+            "name": "傑出揚聲器",
+            "status": [
+                "HP",
+                "300.0 (2235)",
+                "物理防禦",
+                "6.0 (45)",
+                "魔法防禦",
+                "6.0 (45)",
+                "迴避",
+                "1.0 (8)"
+            ]
+        }
+    },
+    "杏奈": {
+        "document": {
+            "CV": "高野麻美",
+            "age": "17",
+            "birthday": "7月5日",
+            "bloodtype": "A",
+            "hight": "159",
+            "hobby": "寫小說",
+            "intro": "【魔法】可從中衛發動壓倒性的魔力來攻擊敵人，人稱之疾風之冥姬。 施展必殺技能雖能給予敵軍全體大規模的傷害， 然而卻因這份魔力過於強大，對自己也有相當的風險。",
+            "name": "杏奈",
+            "raise": "魔族",
+            "weight": "45"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100931.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%9D%8F%E5%A5%88",
+        "skill": {
+            "info": [
+                "  \r\n對全體敵人造成中幅度的魔法傷害，但使用此招後，杏奈的物理防禦力及魔法防禦力會極大幅降低。\r\n \r\n對敵方全體造成【18.0 + 18.0*技能等級 + 1.44 *atk】的魔法傷害\r\n   \r\n將自身的物理防禦力降為0\r\n\r\n持續時間: 99.0 秒\r\n   \r\n將自身的魔法防禦力降為0\r\n\r\n持續時間: 99.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.2 *atk】的魔法傷害\r\n   ",
+                "  \r\n【自爆】當杏奈的HP降於10%以下時便會發動，能對自己周圍的所有敵人造成大幅度的魔法傷害，但自己則無法繼續戰鬥。\r\n \n   \r\n對範圍內的敵人造成【25.0 + 25.0*技能等級 + 2.0 *atk】的魔法傷害\r\n   \r\n範圍 : 600\r\n\n   \n  \r\n持續時間: 1.9 + 0.0*技能等級 秒\r\n ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害，並小幅度降低其魔法防禦力。\r\n \r\n敵単体に【20.0 + 20.0*技能等級 + 1.6 *atk】の魔法ダメージ\r\n   \r\n敵単体の魔法防御力を【0.6 + 0.6*技能等級 】ダウン\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "羅剎涅槃・極光終天冥壞破",
+                "羅剎涅槃・無式",
+                "冥空天昇",
+                "霸叉冥滅獄炎咒",
+                "霸叉冥滅獄炎咒+",
+                "羅剎涅槃‧無式+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "疾風の冥姫が操りし魔装。凡俗では 瞬く間に魔に呑まれ廃人となる。 禍々しき宵闇色の刃が艶めく刹那、 闇は疾風となり愚者を奈落へ誘う。",
+            "name": "螺旋霊撃疾風飛剣",
+            "status": [
+                "魔法攻擊力",
+                "90.0 (671)",
+                "魔法暴擊",
+                "10.0 (75)"
+            ]
+        }
+    },
+    "栞": {
+        "document": {
+            "CV": "小清水亞美",
+            "age": "14",
+            "birthday": "11月3日",
+            "bloodtype": "A",
+            "hight": "153",
+            "hobby": "讀書、散步",
+            "intro": "【物理】從最後方連續施展高火力技能的狙擊手。 擁有造成傷害後接著恢復ＴＰ的技能， 可以快速發動強力的必殺技。",
+            "name": "栞",
+            "raise": "獸人族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103811.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%A0%9E",
+        "skill": {
+            "info": [
+                "提升自身【22.5 + 22.5*技能等級 】的物理攻擊力\n\n持續時間: 90.0 秒",
+                "對最多３名角色各造成【4.5 + 4.5*技能等級 + 0.36 *atk】的物理傷害",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "附魔之箭",
+                "全力之矢",
+                "暴風之箭",
+                "強化狙擊",
+                "強化狙擊+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "流夏": {
+        "document": {
+            "CV": "佐藤利奈",
+            "age": "25",
+            "birthday": "7月11日",
+            "bloodtype": "B",
+            "hight": "167",
+            "hobby": "釣魚",
+            "intro": "【物理】在前方為夥伴揮劍的豪氣大姊。 擁有能夠反擊對手的挑釁招數、降低敵人防禦力的 必殺技，在攻防兩面都能發揮實力。",
+            "name": "流夏",
+            "raise": "人族",
+            "weight": "54"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105631.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%B5%81%E5%A4%8F",
+        "skill": {
+            "info": [
+                "對敵方單體造成【30.0 + 30.0*技能等級 + 2.4 *atk】的物理傷害",
+                "挑釁敵方全體",
+                "回復自身【5.0 + 5.0*技能等級 + atk】的HP",
+                "提升自身【2.0 + 2.0*技能等級 】的魔法防禦力",
+                "提升自身【32.0 + 2.0*技能等級 】的魔法防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "零之太刀‧水月鏡花",
+                "一之太刀‧雫冽掃",
+                "海內無雙之型",
+                "明鏡止水的境界",
+                "明鏡止水的境界+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "深月": {
+        "document": {
+            "CV": "三石琴乃",
+            "age": "27",
+            "birthday": "3月7日",
+            "bloodtype": "A",
+            "hight": "166",
+            "hobby": "研究、實驗",
+            "intro": "【物理】位於中衛，能將敵方領域弱化，是一位單眼惡魔。 領域的持續時間雖然不長，但卻能大幅度減少 範圍內的敵方之物理防禦力。",
+            "name": "深月",
+            "raise": "人族",
+            "weight": "53"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105111.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E6%B7%B1%E6%9C%88",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害。依此技能所擊倒的敵人數，來恢復自己的 HP。\r\n \r\n對範圍內的敵人造成【20.4 + 20.4*技能等級 + 1.62 *atk】的物理傷害\r\n   \r\n範圍 : 750\r\n\n   \r\n回復打倒的敵人數量×20%的HP。\r\n   ",
+                "  \r\n使前方範圍內的全體敵人陷入詛咒狀態。\r\n \r\n造成【2.4 + 2.4*技能等級 】的傷害及給予詛咒狀態\r\n \r\n持續時間: 12.0 秒\r\n  \r\n範圍 : 620\r\n",
+                "  \r\n在自己面前的一定範圍內，展開大幅度降低物理防禦力的區域。\r\n \n   \r\n降低結界內的敵人【1.2 + 1.2*技能等級 】的物理防禦力\r\n \r\n持續時間: 8.0 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對前方範圍內全體敵人施加詛咒狀態，並使其在短時間內暈眩。\r\n \r\n【3.6 + 3.6*技能等級 】ダメージを与える呪いを与える\r\n \r\n持續時間: 12.0 秒\r\n  \r\n範圍 : 620\r\n\r\n範囲内の敵の行動速度を一定時間低下させる\r\n \r\n持續時間: 12.0 秒\r\n  \r\n範圍 : 620\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "血薔薇",
+                "詛咒之花",
+                "薔薇領域",
+                "獨眼惡魔",
+                "獨眼惡魔+",
+                "詛咒之花+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "妖美な薔薇の装飾をあしらった ミツキ愛用の眼帯。 魔力を込めると七色の光を放射し、 相手の能力を減退させる。",
+            "name": "ローズオブカース",
+            "status": [
+                "HP",
+                "100.0 (745)",
+                "物理攻撃力",
+                "80.0 (596)",
+                "物理暴擊",
+                "5.0 (37.25)",
+                "TP上升",
+                "2.0 (15)"
+            ]
+        }
+    },
+    "珠希": {
+        "document": {
+            "CV": "沼倉愛美",
+            "age": "18",
+            "birthday": "3月1日",
+            "bloodtype": "AB",
+            "hight": "158",
+            "hobby": "與貓咪玩耍",
+            "intro": "【物理】位於前衛，擅長魔法隊伍的隨心所欲的貓娘。 專門攻擊「魔法攻擊力最高」的敵人， 以降低傷害及魔法攻擊力，並吸收 TP。",
+            "name": "珠希",
+            "raise": "獸人族",
+            "weight": "48"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104611.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%8F%A0%E5%B8%8C",
+        "skill": {
+            "info": [
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成特大幅度的物理傷害。\r\n \n   \r\n對敵方單體造成【60.0 + 60.0*技能等級 + 4.8 *atk】的物理傷害\r\n   ",
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成中幅度的物理傷害，並且造成小幅度的魔法攻擊力下降。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\r\n   \r\n降低敵方單體【2.75 + 2.75*技能等級 】的魔法攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成 TP 小幅度的下降，並且小幅度恢復自己的 TP。\r\n \r\n使敵方單體失去【40.0 + 1.25*技能等級 】的TP\r\n   \r\n回復自身【40.0 + 1.25*技能等級 】的TP\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n對魔法攻擊力最高的 1 名敵人造成中幅度的物理傷害，並中幅度降低其魔法攻擊力，再使其暈眩。\r\n \r\n敵単体に【15.0 + 15.0*技能等級 + 1.2 *atk】の物理ダメージ\r\n   \r\n敵単体の魔法攻撃力を【5.5 + 5.5*技能等級 】ダウン\r\n\r\n持續時間: 12.0 秒\r\n   \r\n敵単体を一定時間行動不能にする\r\n \r\n持續時間: 1.5 秒\r\n  "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "喵咪喵咪究極破壞",
+                "喵咪喵咪投擲",
+                "隨心所欲的貓",
+                "絕妙之貓",
+                "絕妙之貓+",
+                "喵咪喵咪投擲+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "タマキが大切にしている首飾り。 たいやき型のチャームに埋め込まれ た魔石によって、幻影を残すほどの 身のこなしを手にできる。",
+            "name": "ファンタズムタイヤキ",
+            "status": [
+                "魔法防禦",
+                "5.0 (38)",
+                "物理攻撃力",
+                "75.0 (559)",
+                "物理暴擊",
+                "5.0 (37.25)"
+            ]
+        }
+    },
+    "珠希（夏日）": {
+        "document": {
+            "CV": "沼倉愛美",
+            "age": "18",
+            "birthday": "3月1日",
+            "bloodtype": "AB",
+            "hight": "158",
+            "hobby": "與貓咪玩耍",
+            "intro": "【物理】位於前衛施放連續攻擊，是海邊的隨性貓娘。 可隨機對敵方造成總計４次單體攻擊的 必殺技，雖然目標是隨機的但威力卻相當出色。",
+            "name": "珠希（夏日）",
+            "raise": "獸人族",
+            "weight": "48"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107931.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%8F%A0%E5%B8%8C%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "對敵方單體造成【16.0 + 16.0*技能等級 + 1.4 *atk】的物理傷害\n   \n範圍 : 480",
+                "使敵方單體失去【40.0 + 1.25*技能等級 】的TP",
+                "提升自身【11.0 + 11.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "貓咪貓咪夏日狂歡",
+                "夏日沙灘的吸收",
+                "破冰",
+                "樂園之貓",
+                "樂園之貓+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "璃乃": {
+        "document": {
+            "CV": "阿澄佳奈",
+            "age": "15",
+            "birthday": "8月25日",
+            "bloodtype": "A",
+            "hight": "156",
+            "hobby": "裁縫",
+            "intro": "【物理】能從後衛降下箭雨，是一名妹妹屬性的弓箭手。 擁有能提高自己的暴擊率的一般技能， 還能使傷害次數較高的必殺技，擁有更顯著的效果。",
+            "name": "璃乃",
+            "raise": "人族",
+            "weight": "44"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101131.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%92%83%E4%B9%83",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害。\r\n \r\n對範圍內的敵人造成【20.4 + 20.4*技能等級 + 1.62 *atk】的物理傷害\r\n   \r\n範圍 : 1150\r\n",
+                "  \r\n中幅提升自己的物理攻擊力，以及物理暴擊。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自身物理暴擊提升【45.0 + 0.0*技能等級 】\r\n\r\n持續時間: 99.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n大幅度提升自己的物理攻擊力，中幅度提升物理暴擊傷害，以及中幅度提升行動速度。\r\n \r\n自分の物理攻撃力を【20.0 + 20.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自分の物理クリティカルを【75.0 + 0.0*技能等級 】アップ\r\n\r\n持續時間: 99.0 秒\r\n   \r\n自分の行動速度アップ\r\n \r\n持續時間: 12.0 秒\r\n  "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "箭雨",
+                "精神集中",
+                "破甲箭",
+                "侵入集中",
+                "侵入集中+",
+                "精神集中+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "鮮烈な炎を宿すリノ専用の魔法矢。 情熱的な想いが炎の源となっており その一撃は、戦闘を決定づける高威 力を誇る。",
+            "name": "プロミネンスアロー",
+            "status": [
+                "物理攻撃力",
+                "92.0 (686)",
+                "物理暴擊",
+                "20.0 (149)"
+            ]
+        }
+    },
+    "真步": {
+        "document": {
+            "CV": "內田真禮",
+            "age": "16",
+            "birthday": "9月22日",
+            "bloodtype": "O",
+            "hight": "155",
+            "hobby": "幻想、蒐集玩偶",
+            "intro": "【魔法】位於後衛，負責支援己方的童話少女。 擁有可加強己方全體，恢復 ＴＰ 之必殺技，以及可恢復 HP ，使敵方陷入黑暗的技能，能使戰況好轉。",
+            "name": "真步",
+            "raise": "獸人族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101031.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%9C%9F%E6%AD%A5",
+        "skill": {
+            "info": [
+                "提升我方全體【3.45 + 3.45*技能等級 】的魔法攻擊力\n\n持續時間: 18.0 秒",
+                "回復我方單體【7.5 + 7.5*技能等級 + atk】的HP",
+                "造成黑暗狀態",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ],
+            "name": [
+                "童話之庭",
+                "真步真步恢復",
+                "真步真步黑暗",
+                "童話充能",
+                "童話充能+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "真琴": {
+        "document": {
+            "CV": "小松未可子",
+            "age": "17",
+            "birthday": "8月9日",
+            "bloodtype": "O",
+            "hight": "168",
+            "hobby": "做點心",
+            "intro": "【物理】位於前衛，能削弱對手的防禦力，是一名正義的獸人。 能夠降低敵方的防禦力，並且確確實實地給予傷害， 以便盡早突破敵方防守。",
+            "name": "真琴",
+            "raise": "獸人族",
+            "weight": "54"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104331.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%9C%9F%E7%90%B4",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且中幅度的降低其物理防禦力。\r\n \r\n對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害\r\n   \r\n降低敵方單體【0.9 + 0.9*技能等級 】的物理防禦力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理防禦力下降。\r\n \r\n降低敵方單體【0.8 + 0.8*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を中アップさせる。\r\n \r\n敵単体に【25.0 + 25.0*技能等級 + 2.0 *atk】の物理ダメージ\r\n   \r\n自分の物理攻撃力を【7.5 + 7.5*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "沃爾芬之咬",
+                "猛烈斬",
+                "破甲嚎叫",
+                "狼牙的猛擊",
+                "狼牙的猛擊+",
+                "ハードスラッシュ+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "青狼の魂宿りし大剣。その一振りは 装備者の豪胆さを象徴する竜巻の如 く敵を襲い、同時に眠れる力を呼び 覚ます。",
+            "name": "ウルフェンブレード",
+            "status": [
+                "物理攻撃力",
+                "100.0 (745)",
+                "物理暴擊",
+                "12.0 (89.39999999999999)"
+            ]
+        }
+    },
+    "真陽": {
+        "document": {
+            "CV": "新田惠海",
+            "age": "20",
+            "birthday": "3月3日",
+            "bloodtype": "B",
+            "hight": "142",
+            "hobby": "相聲",
+            "intro": "【物理】位於中衛，可擾亂敵人動作的牧場主人。 能將敵方的前衛擊退，進而崩壞敵方陣形，逼迫其他敵人成為對象攻擊範圍。",
+            "name": "真陽",
+            "raise": "人族",
+            "weight": "35"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103311.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%9C%9F%E9%99%BD",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且使敵人暈眩。\r\n \r\n對敵方單體造成【50.0 + 50.0*技能等級 + 4.0 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 2.0 秒\r\n  ",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並且小距離向後吹飛。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並且小幅提升自己的物理攻擊力。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\r\n   \r\n提升自身【5.5 + 5.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的物理防禦力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n目の前の敵１キャラに物理中ダメージを与え、さらに混乱状態を付与し、大きく吹き飛ばす。\r\n \r\n敵単体に【10.0 + 10.0*技能等級 + 2.0 *atk】の物理ダメージ\r\n   \n   \r\n敵単体を混乱させる\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "伊麗莎白",
+                "牛奶坦克攻擊",
+                "刀耙斬擊",
+                "試水溫的老梗",
+                "試水溫的老梗+",
+                "ミルクタンクアタック+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "愛牛・エリザベスをイメージしてデ ザインされたマヒルのポンチョ。着 ればボケのキレが増し、相手を混乱 に陥れる。",
+            "name": "エリザベスポンチョ",
+            "status": [
+                "物理防禦",
+                "1.0 (8)",
+                "魔法防禦",
+                "1.0 (8)",
+                "物理攻撃力",
+                "85.0 (634)",
+                "TP上升",
+                "2.0 (15)"
+            ]
+        }
+    },
+    "碧": {
+        "document": {
+            "CV": "花澤香菜",
+            "age": "13",
+            "birthday": "6月6日",
+            "bloodtype": "AB",
+            "hight": "158",
+            "hobby": "交朋友的想像訓練",
+            "intro": "【物理】從最後方射出異常狀態之箭，孤獨的射手。 透過和傷害共同施加的毒或麻痺等追加效果， 就算是防御力高的敵人也能確實地削減其ＨＰ。",
+            "name": "碧",
+            "raise": "精靈族",
+            "weight": "44"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%A2%A7",
+        "skill": {
+            "info": [
+                "",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "對敵方單體造成【8.0 + 8.0*技能等級 + 0.6 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "擰絞之蔦",
+                "毒之矢",
+                "麻痺之箭",
+                "森林射手",
+                "森林射手+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "禊": {
+        "document": {
+            "CV": "諸星すみれ",
+            "age": "9",
+            "birthday": "8月10日",
+            "bloodtype": "O",
+            "hight": "128",
+            "hobby": "惡作劇、探險",
+            "intro": "【物理】在最前線干擾敵人物理攻擊的淘氣少女。 擁有能使眼前的敵人陷入黑暗狀態、命中率大幅下降之外， 還能使一名敵人的物理攻擊力下降的技能。",
+            "name": "禊",
+            "raise": "人族",
+            "weight": "27"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100411.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%A6%8A",
+        "skill": {
+            "info": [
+                "",
+                "對敵方單體造成【8.0 + 8.0*技能等級 + 0.6 *atk】的物理傷害",
+                "對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "搗蛋炸彈",
+                "黑墨射手",
+                "水球",
+                "陷阱專家",
+                "陷阱專家+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "秋乃": {
+        "document": {
+            "CV": "松嵜麗",
+            "age": "18",
+            "birthday": "3月12日",
+            "bloodtype": "AB",
+            "hight": "157",
+            "hobby": "慈善事業",
+            "intro": "【物理】位於前衛，能大鬧攻擊，是一名千金小姐劍士。 能夠在自身周遭創造出能使夥伴恢復的領域。而挺身佇立前線的無畏身影，更不負身為名家之名。",
+            "name": "秋乃",
+            "raise": "人族",
+            "weight": "45"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103231.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%A7%8B%E4%B9%83",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成特大幅度的物理傷害。\r\n \r\n對敵方單體造成【60.0 + 60.0*技能等級 + 4.8 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並小幅提升自己的物理攻擊力。若在大笑的時候被攻擊，則可反擊範圍內的敵人。\r\n \r\n對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害\r\n   \n   \r\n對範圍內的敵人造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \r\n範圍 : 280\r\n\r\n提升自身【5.5 + 5.5*技能等級 】的物理攻擊力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n在自己，以及一定範圍內的所有己方展開小幅度恢復區域。\r\n \r\n展開每秒回復【0.5 + 0.5*技能等級 + 0.05 *atk 持續8.0秒】HP的結界\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的物理防禦力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並小幅度提升自己的物理攻擊力與 TP 上昇與進行挑釁。若在大笑的時候被攻擊，則可反擊範圍內的敵人。\r\n \r\n敵単体に【15.0 + 15.0*技能等級 + 1.2 *atk】の物理ダメージ\r\n   \n   \r\n範囲内の敵に【30.0 + 30.0*技能等級 + 2.4 *atk】の物理ダメージ\r\n   \r\n範圍 : 320\r\n\r\n自分の物理攻撃力を【15.0 + 15.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自分のＴＰ上昇を【15.0 + 0.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "高貴譴擊",
+                "高傲斬擊",
+                "治癒寶石",
+                "火焰靈魂",
+                "火焰靈魂+",
+                "高傲斬擊+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "アキノの身を飾るブローチ。ウィス タリア家に代々伝わる輝石であり、 所有者に高潔なる精神と類まれなる 魔力を授けてくれる。",
+            "name": "紅輝石ウィスタリア",
+            "status": [
+                "HP",
+                "150.0 (1118)",
+                "物理防禦",
+                "2.0 (15)",
+                "物理攻撃力",
+                "60.0 (447)",
+                "命中",
+                "5.0 (5)"
+            ]
+        }
+    },
+    "空花": {
+        "document": {
+            "CV": "長妻樹里",
+            "age": "18",
+            "birthday": "11月19日",
+            "bloodtype": "AB",
+            "hight": "157",
+            "hobby": "閱讀小說",
+            "intro": "【物理】在前方擔任誘餌，吸收攻擊後瘋狂爆發的超Ｍ少女。 透過必殺技對自己張開魔法屏障， 吸收敵人的魔法攻擊來恢復ＨＰ。",
+            "name": "空花",
+            "raise": "人族",
+            "weight": "49"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104511.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%A9%BA%E8%8A%B1",
+        "skill": {
+            "info": [
+                "展開可吸收【35.0 + 35.0*技能等級 】傷害量的魔法吸收護盾",
+                "挑釁敵方全體",
+                "提升自身【1.6 + 1.6*技能等級 】的魔法防禦力\n\n持續時間: 12.0 秒",
+                "提升自身【2.0 + 2.0*技能等級 】的魔法防禦力",
+                "提升自身【32.0 + 2.0*技能等級 】的魔法防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "絕頂體驗",
+                "要上就從正面上吧！",
+                "刺激的更歡迎唷！",
+                "妄想防護",
+                "妄想防護+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "純": {
+        "document": {
+            "CV": "川澄綾子",
+            "age": "25",
+            "birthday": "10月25日",
+            "bloodtype": "A",
+            "hight": "171",
+            "hobby": "格鬥技、入浴",
+            "intro": "【物理】在最前方施展完全防禦技能的騎士團長。 必殺技則可展開任何傷害都能 吸收的屏障。尤其以長期戰中的壓倒性防禦能力自豪。",
+            "name": "純",
+            "raise": "人族",
+            "weight": "50"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104731.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%B4%94",
+        "skill": {
+            "info": [
+                "  \r\n對自己展開物理/魔法的屏障。\r\n \r\n展開可吸收【55.0 + 55.0*技能等級 】傷害量的物理魔法吸收護盾\r\n   ",
+                "  \r\n小幅度恢復周圍己方中 HP 最低的 １ 名角色。\r\n \r\n回復我方單體【7.5 + 7.5*技能等級 + atk】的HP\r\n   \r\n範圍 : 300\r\n",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並且小幅度降低敵人的物理防禦力。\r\n \r\n對敵方單體造成【8.0 + 8.0*技能等級 + 0.6 *atk】的物理傷害\r\n   \r\n降低敵方單體【0.6 + 0.6*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法防禦力。\r\n \r\n提升自身【32.0 + 2.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n大幅度恢復自己周圍 HP 最低的 1 名夥伴的 HP，並小幅度提升其物理攻擊力及行動速度。\r\n \r\n味方単体のＨＰを【10.0 + 10.0*技能等級 + atk】回復\r\n   \r\n範圍 : 300\r\n\r\n味方単体の物理攻撃力を【11.0 + 11.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 300\r\n\r\n味方単体の行動速度アップ\r\n \r\n持續時間: 12.0 秒\r\n  \r\n範圍 : 300\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "地獄之盾",
+                "勇氣復原",
+                "盔甲破壞",
+                "審判護盾",
+                "審判護盾+",
+                "勇氣復原+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "正義の豪炎をまとったジュンの鎧。 付与された魔力は敵のいかなる攻撃 も寄せ付けず、味方には勇気と活力 を与える。",
+            "name": "シュバリエメイル",
+            "status": [
+                "物理防禦",
+                "8.0 (60)",
+                "魔法防禦",
+                "9.0 (68)",
+                "物理攻撃力",
+                "20.0 (149)"
+            ]
+        }
+    },
+    "紡希": {
+        "document": {
+            "CV": "木戶衣吹",
+            "age": "14",
+            "birthday": "9月7日",
+            "bloodtype": "AB",
+            "hight": "153",
+            "hobby": "裁縫",
+            "intro": "【物理】位於前衛，特化妨礙敵人技能的裁縫師女孩。 除了可強制移動敵人使敵方陣形瓦解，還可 降低對手的移動速度、行動速度，使其反擊變得遲緩。",
+            "name": "紡希",
+            "raise": "人族",
+            "weight": "45"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105411.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%B4%A1%E5%B8%8C",
+        "skill": {
+            "info": [
+                "對範圍內的敵人造成【18.0 + 18.0*技能等級 + 1.44 *atk】的物理傷害\n   \n範圍 : 900",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "對範圍內的敵人造成【2.25 + 2.25*技能等級 + 0.18 *atk】的物理傷害\n   \n範圍 : 700",
+                "提升自身【2.0 + 2.0*技能等級 】的物理防禦力",
+                "提升自身【32.0 + 2.0*技能等級 】的物理防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "不幸的束縛",
+                "琴弦捕獲",
+                "螺旋紗線",
+                "裁縫的毅力",
+                "裁縫的毅力+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "綾音": {
+        "document": {
+            "CV": "芹澤優",
+            "age": "14",
+            "birthday": "5月10日",
+            "bloodtype": "B",
+            "hight": "148",
+            "hobby": "能在房間裡玩的遊戲",
+            "intro": "【物理】位於前衛，能使戰場混亂，是一個熊孩子。 在以必殺技將對手吹飛的同時，以暈眩及給予大幅度的傷害使敵方陣形大亂。",
+            "name": "綾音",
+            "raise": "人族",
+            "weight": "38"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102311.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%B6%BE%E9%9F%B3",
+        "skill": {
+            "info": [
+                "對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害",
+                "對範圍內的敵人造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\n   \n範圍 : 325",
+                "對範圍內的敵人造成【6.8 + 6.8*技能等級 + 0.54 *atk】的物理傷害\n   \n範圍 : 325",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "噗吉全力揮擊",
+                "噗吉破壞",
+                "噗吉颶風",
+                "甜美強棒",
+                "甜美強棒+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "美冬": {
+        "document": {
+            "CV": "田所あずさ",
+            "age": "20",
+            "birthday": "11月11日",
+            "bloodtype": "O",
+            "hight": "163",
+            "hobby": "傭兵等等的打工",
+            "intro": "【物理】位於中衛，擁有暈眩與恢復的技能的傭兵戰士。 擁有高度防禦能力及自我恢復能力， 能使中衛的防守更為堅固，支撐整個隊伍。",
+            "name": "美冬",
+            "raise": "人族",
+            "weight": "49"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104811.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E5%86%AC",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且使敵人暈眩。\r\n \n   \r\n對敵方單體造成【50.0 + 50.0*技能等級 + 4.0 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  ",
+                "  \r\n大幅度恢復自己的 HP。\r\n \r\n回復自身【10.0 + 10.0*技能等級 + atk】的HP\r\n   ",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並且使其暈眩。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的物理防禦力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n展開領域，大幅度恢復自己的 HP，並大幅度提升自己的物理防禦力及魔法防禦力，再小幅度恢復自已周圍範圍內的全體夥伴。\r\n \r\n自分のＨＰを【12.0 + 12.0*技能等級 + atk】回復\r\n   \r\n自分の物理防御力を【1.2 + 1.2*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n自分の魔法防御力を【1.2 + 1.2*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n毎秒ＨＰを【0.5 + 0.5*技能等級 + 0.07 *atk 持續8.5秒】回復するフィールドを展開する\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "飛濺潛擊",
+                "優先援助",
+                "水之斬擊",
+                "傭兵的驕傲",
+                "傭兵的驕傲+",
+                "優先援助+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "ミフユ愛用のハルバード。 一振りすれば穂先から水流が踊り、 持ち主を水の加護によって激しくも 流麗に守ってくれる。",
+            "name": "溟竜槍レヴィアタン",
+            "status": [
+                "物理防禦",
+                "3.0 (23)",
+                "魔法防禦",
+                "3.0 (23)",
+                "物理攻撃力",
+                "75.0 (559)"
+            ]
+        }
+    },
+    "美冬（夏日）": {
+        "document": {
+            "CV": "田所あずさ",
+            "age": "20",
+            "birthday": "11月11日",
+            "bloodtype": "O",
+            "hight": "163",
+            "hobby": "傭兵等等的打工",
+            "intro": "【物理】位於中衛，熟稔攻擊與輔助的海之傭兵。 必殺技的效果能夠提升我方全體的物理攻擊力， 在物理攻擊隊伍的能力提升上可出一份力。",
+            "name": "美冬（夏日）",
+            "raise": "人族",
+            "weight": "49"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E5%86%AC%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "利維坦之槍",
+                "水之刺擊",
+                "狩獵模式",
+                "夏日傭兵",
+                "夏日傭兵+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "美咲": {
+        "document": {
+            "CV": "久野美咲",
+            "age": "11",
+            "birthday": "1月3日",
+            "bloodtype": "A",
+            "hight": "120",
+            "hobby": "閱讀流行雜誌、蒐集化妝品",
+            "intro": "【魔法】位於後衛，能施放範圍攻擊，是一名小淑女．魔女。 擁有能多次範圍攻擊的技能，以及能攻擊 敵方全體的必殺技，特化為範圍殲滅。",
+            "name": "美咲",
+            "raise": "魔族",
+            "weight": "22"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E5%92%B2",
+        "skill": {
+            "info": [
+                "對敵方全體造成【12.0 + 12.0*技能等級 + 1.08 *atk】的魔法傷害\n   \n範圍 : 1500",
+                "對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的魔法傷害",
+                "",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "戴斯托洛伊亞",
+                "闇黑光子",
+                "眼之投擲",
+                "淑女的愛好",
+                "淑女的愛好+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "美咲（萬聖節）": {
+        "document": {
+            "CV": "久野美咲",
+            "age": "11",
+            "birthday": "1月3日",
+            "bloodtype": "A",
+            "hight": "120",
+            "hobby": "閱讀流行雜誌、蒐集化妝品",
+            "intro": "【魔法】在後方施展妨礙技能的魔法少女。 使對手陷入誘惑狀態的技能或同時施加複數 異常狀態的必殺技都能擾亂對手陣腳。",
+            "name": "美咲（萬聖節）",
+            "raise": "魔族",
+            "weight": "22"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_108331.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E5%92%B2%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89",
+        "skill": {
+            "info": [
+                "對敵方全體造成【9.0 + 9.0*技能等級 + 0.81 *atk】的魔法傷害",
+                "對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的魔法傷害",
+                "提升範圍內的我方【11.0 + 11.0*技能等級 】的魔法攻擊力\n\n持續時間: 12.0 秒\n   \n範圍 : 400",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "南瓜死亡派對",
+                "淑女魔法",
+                "萬聖節加速",
+                "萬聖節小姐",
+                "萬聖節小姐+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "美美": {
+        "document": {
+            "CV": "日高里菜",
+            "age": "10",
+            "birthday": "4月3日",
+            "bloodtype": "O",
+            "hight": "117",
+            "hobby": "蒐集可愛的東西",
+            "intro": "【物理】位於中衛，崩毀敵方前衛，是一隻小兔兔女孩。 必殺技為，在給予離自己最近的敵人大幅傷害後， 能順便攻擊到該對象旁邊的敵軍，能有效早期攻略敵人的前衛。",
+            "name": "美美",
+            "raise": "獸人族",
+            "weight": "21"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102011.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E7%BE%8E",
+        "skill": {
+            "info": [
+                "對眼前的敵方單體造成【24.0 + 24.0*技能等級 + 1.8 *atk】的物理傷害",
+                "",
+                "提升我方全體【3.0 + 3.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "小兔子斬擊",
+                "蹦蹦跳攻擊",
+                "小兔子聲援",
+                "小兔子之力",
+                "小兔子之力+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "美里": {
+        "document": {
+            "CV": "國府田マリ子",
+            "age": "21",
+            "birthday": "9月5日",
+            "bloodtype": "O",
+            "hight": "165",
+            "hobby": "製作繪本",
+            "intro": "【魔法】位於後衛支援使用魔法的角色，是大家的老師。 負責必殺技的 HP 恢復及提升魔法防禦，持續恢復前方角色 HP，大幅提升己方的持久度。",
+            "name": "美里",
+            "raise": "精靈族",
+            "weight": "54"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101511.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E7%BE%8E%E9%87%8C",
+        "skill": {
+            "info": [
+                "回復我方全體【4.5 + 4.5*技能等級 + atk】的HP",
+                "提升範圍內的我方【5.5 + 5.5*技能等級 】的魔法攻擊力\n\n持續時間: 12.0 秒\n   \n範圍 : 300",
+                "每秒回復【1.0 + 0.12*atk 持續7.0秒】的HP",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "姐妹互助",
+                "神聖力量",
+                "愛之治癒",
+                "天女的威嚴",
+                "天女的威嚴+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "胡桃": {
+        "document": {
+            "CV": "植田佳奈",
+            "age": "12",
+            "birthday": "6月9日",
+            "bloodtype": "B",
+            "hight": "150",
+            "hobby": "看戲、扮家家酒",
+            "intro": "【物理】位於前衛，能守護己方，是一名極度害羞的女孩子。 技能能提高自己周圍的物理、魔法防禦力， 並且能使接近的敵方暈眩難以靠近。",
+            "name": "胡桃",
+            "raise": "人族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102111.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%83%A1%E6%A1%83",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且使敵人長時間的暈眩。\r\n \r\n對敵方單體造成【30.0 + 30.0*技能等級 + 2.4 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 5.5 秒\r\n  ",
+                "  \r\n小幅度提升周圍己方的物理防禦力與魔法防禦力。\r\n \r\n提升範圍內的我方【0.375 + 0.375*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 200\r\n\r\n提升範圍內的我方【0.375 + 0.375*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 200\r\n",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並且使其暈眩。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的最大 HP。\r\n \r\n提升自身【75.0 + 75.0*技能等級 】的最大HP\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的最大 HP，並小幅度提升自己的魔法防禦力。\r\n \r\n提升自身【1275.0 + 75.0*技能等級 】的最大HP\r\n   \r\n提升自身【30.0 + 0.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n中幅度提升全體夥伴的物理防禦力和魔法防禦力，小幅度恢復TP。\r\n \r\n提升我方全體【0.75 + 0.75*技能等級 】的物理防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n提升我方全體【0.75 + 0.75*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n回復我方全體【50.0 + 0.0*技能等級 】的TP\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "膽怯的鈴鐺揮擊",
+                "勇氣之鈴",
+                "鈴之震音",
+                "閃耀活動",
+                "閃耀活動+",
+                "勇氣鐘聲+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "胡桃當作護身符的鈴。 從莊嚴雅正的外觀 到奏出的可愛音調， 都能令怯懦的心 生出勇氣。",
+            "name": "善舉之鈴",
+            "status": [
+                "HP",
+                "100.0 (745)",
+                "物理防禦",
+                "8.0 (60)",
+                "魔法防禦",
+                "8.0 (60)",
+                "HP自動回復",
+                "200.0 (1490)"
+            ]
+        }
+    },
+    "茉莉": {
+        "document": {
+            "CV": "下田麻美",
+            "age": "12",
+            "birthday": "11月25日",
+            "bloodtype": "O",
+            "hight": "146",
+            "hobby": "英雄扮演遊戲",
+            "intro": "【物理】以機敏的行動在敵陣穿梭的先鋒見習騎士。 以必殺技衝進對手陣地中央， 再攻擊自己周圍的技能來進攻對手。",
+            "name": "茉莉",
+            "raise": "獸人族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100511.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%8C%89%E8%8E%89",
+        "skill": {
+            "info": [
+                "",
+                "對範圍內的敵人造成【3.4 + 3.4*技能等級 + 0.27 *atk】的物理傷害\n   \n範圍 : 300",
+                "對範圍內的敵人造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\n   \n範圍 : 300",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "猛虎英雄轟炸",
+                "猛虎衝擊",
+                "猛虎旋",
+                "英雄的心得",
+                "英雄的心得+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "茜里": {
+        "document": {
+            "CV": "淺倉杏美",
+            "age": "13",
+            "birthday": "11月22日",
+            "bloodtype": "O",
+            "hight": "150",
+            "hobby": "薩克斯風",
+            "intro": "【魔法】位於中衛，擔任魔法隊中強化與恢復的角色，是雙胞胎中的妹妹。 擁有能大幅降低敵人魔法防禦力的技能，以及可提升魔法攻擊力及擁有恢復效果的必殺技。",
+            "name": "茜里",
+            "raise": "魔族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100611.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%8C%9C%E9%87%8C",
+        "skill": {
+            "info": [
+                "  \r\n小幅度提升己方全體的魔法攻擊力，並且於下次攻擊時，依照攻擊的傷害比例，追加恢復 HP。\r\n \n   \r\n提升我方全體【4.5 + 4.5*技能等級 】的魔法攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法防禦力下降。\r\n \r\n降低敵方單體【1.0 + 1.0*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的魔法傷害，並小幅度降低其魔法防禦力。\r\n \r\n敵単体に【25.0 + 25.0*技能等級 + 2.0 *atk】の魔法ダメージ\r\n   \r\n敵単体の魔法防御力を【0.2 + 0.2*技能等級 】ダウン\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "甜蜜惡魔的聲援",
+                "闇影箭",
+                "小惡魔的親吻",
+                "甜美燃燒",
+                "甜美燃燒+",
+                "闇影箭+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "アカリの愛を一身に受けた魔槍。武 器に秘められた強大な魔力は、小悪 魔を刺激的な魔女へと、華麗に変貌 させる。",
+            "name": "デモンズトライデント",
+            "status": [
+                "物理防禦",
+                "3.0 (23)",
+                "魔法防禦",
+                "3.0 (23)",
+                "魔法攻擊力",
+                "72.0 (537)"
+            ]
+        }
+    },
+    "莉瑪": {
+        "document": {
+            "CV": "德井青空",
+            "age": "18",
+            "birthday": "3月14日",
+            "bloodtype": "A",
+            "hight": "150",
+            "hobby": "理毛、聊天",
+            "intro": "【物理】在最前方守護夥伴的戀愛少女。 戰鬥開始後不久就會朝最前線 突進，挺身擋在敵人眼前。",
+            "name": "莉瑪",
+            "raise": "獸人族",
+            "weight": "100"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105211.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%8E%89%E7%91%AA",
+        "skill": {
+            "info": [
+                "  \r\n對前方範圍內的全體敵人造成中幅度的物理傷害，並且大幅度提升自己的物理防禦力。\r\n \r\n對範圍內的敵人造成【13.5 + 13.5*技能等級 + 1.08 *atk】的物理傷害\r\n   \r\n範圍 : 400\r\n\n   \r\n提升自身【2.4 + 2.4*技能等級 】的物理防禦力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n戰鬥開始過後，向最前方的敵人突進，對該名敵人造成中幅度的物理傷害，並小幅度提升自己的物理防禦力。\r\n \n   \n   \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   \n  \r\n持續時間: 1.0 + 0.0*技能等級 秒\r\n \r\n提升自身【0.8 + 0.8*技能等級 】的物理防禦力\r\n\r\n持續時間: 16.0 秒\r\n   ",
+                "  \r\n對面前的 1 名敵人造成小幅度的物理傷害，並且使其暈眩。\r\n \r\n對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 1.5 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理防禦力。\r\n \r\n提升自身【32.0 + 2.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\nバトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を大アップさせる。さらに味方全体に物理無効バリアを展開する。\r\n \n   \n   \r\n敵単体に【20.0 + 20.0*技能等級 + 1.6 *atk】の物理ダメージ\r\n   \n  \r\n持續時間: 1.0 + 0.0*技能等級 秒\r\n \r\n自分の物理防御力を【1.0 + 1.0*技能等級 】アップ\r\n\r\n持續時間: 16.0 秒\r\n   \r\n【36.0 + 36.0*技能等級 】ダメージ分の物理無効バリアを展開する\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "軟綿綿突襲",
+                "軟綿綿強襲",
+                "軟綿綿鐵頭功",
+                "禦敵之毛皮",
+                "禦敵之毛皮+",
+                "もふもふアサルト+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "いつかこれを着たい…！そんなリマ の夢が詰まった、オーダーメイドの ロングドレス。夢見る乙女の妄想力 が今、覚醒める。",
+            "name": "アンビシャスドレス",
+            "status": [
+                "物理防禦",
+                "9.0 (68)",
+                "魔法防禦",
+                "7.0 (53)",
+                "物理攻撃力",
+                "25.0 (187)"
+            ]
+        }
+    },
+    "莫妮卡": {
+        "document": {
+            "CV": "辻あゆみ",
+            "age": "18",
+            "birthday": "7月28日",
+            "bloodtype": "A",
+            "hight": "140",
+            "hobby": "逛糖果店",
+            "intro": "【物理】位於中衛，能鼓舞鼓舞己方攻擊，是一位女軍人。 不僅能夠大幅度增加全體的物理、魔法攻擊力，就連攻擊速度都能夠提升，使得戰鬥能提前結束。",
+            "name": "莫妮卡",
+            "raise": "人族",
+            "weight": "33"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105331.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%8E%AB%E5%A6%AE%E5%8D%A1",
+        "skill": {
+            "info": [
+                "對範圍內的敵人造成【18.0 + 18.0*技能等級 + 1.44 *atk】的物理傷害\n   \n範圍 : 720",
+                "提升我方全體【1.5 + 1.5*技能等級 】的物理攻擊力\n\n持續時間: 20.0 秒",
+                "對敵方單體造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "紫電一閃",
+                "羽翼的聲援",
+                "鎖定射擊",
+                "白翼的加護",
+                "白翼的加護+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "貪吃佩可": {
+        "document": {
+            "CV": "M・A・O",
+            "age": "17",
+            "birthday": "3月31日",
+            "bloodtype": "O",
+            "hight": "156",
+            "hobby": "邊走邊吃、料理",
+            "intro": "【物理】位於前衛，全力保護同伴，是一位貪吃的劍士。 能夠增加 HP，也能恢復自己的 HP， 擔任己方的保護牆的角色。",
+            "name": "貪吃佩可",
+            "raise": "人族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_105811.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%B2%AA%E5%90%83%E4%BD%A9%E5%8F%AF",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成大幅度的物理傷害，並且中幅提升自己的物理防禦力和魔法防禦力。\r\n \r\n對敵方單體造成【30.0 + 30.0*技能等級 + 2.4 *atk】的物理傷害\r\n   \r\n提升自身【1.8 + 1.8*技能等級 】的物理防禦力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n提升自身【1.8 + 1.8*技能等級 】的魔法防禦力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n小幅度提升自己的魔法防禦力，並小幅度恢復自己的 HP。\r\n \r\n提升自身【0.8 + 0.8*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n回復自身【5.0 + 5.0*技能等級 + atk】的HP\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的最大 HP。\r\n \r\n提升自身【75.0 + 75.0*技能等級 】的最大HP\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的最大 HP。\r\n \r\n提升自身【1275.0 + 75.0*技能等級 】的最大HP\r\n   ",
+                "  \r\n小幅度提升自己的魔法防禦力，並小幅度恢復 HP，再對自己展開物理魔法吸收的屏障。\r\n \r\n提升自身【1.0 + 1.0*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n回復自身【10.0 + 10.0*技能等級 + atk】的HP\r\n   \r\n展開可吸收【22.5 + 22.5*技能等級 】傷害量的物理魔法吸收護盾\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "公主突襲",
+                "午餐時間",
+                "落下斬",
+                "公主之力",
+                "公主之力+",
+                "午餐時間+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "貪吃佩可所使用『皇家裝備』 真正的樣貌。原本已經足夠強大， 但若解放了那沉睡之力， 將會賦予更強的力量。",
+            "name": "公主之劍",
+            "status": [
+                "物理防禦",
+                "10.0 (75)",
+                "魔法防禦",
+                "9.0 (68)",
+                "回復量上升",
+                "5.0 (38)"
+            ]
+        }
+    },
+    "貪吃佩可（夏日）": {
+        "document": {
+            "CV": "M・A・O",
+            "age": "17",
+            "birthday": "3月31日",
+            "bloodtype": "O",
+            "hight": "156",
+            "hobby": "邊走邊吃、料理",
+            "intro": "【物理】位於前衛，可施展強烈的範圍攻擊，是海岸邊的公主。 吃了刨冰一口氣提升物理攻擊力後， 可施展必殺技消滅前方的敵人。",
+            "name": "貪吃佩可（夏日）",
+            "raise": "人族",
+            "weight": "46"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107531.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E8%B2%AA%E5%90%83%E4%BD%A9%E5%8F%AF%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "對範圍內的敵人造成【32.0 + 32.0*技能等級 + 2.55 *atk】的物理傷害\n   \n範圍 : 600",
+                "提升自身【40.0 + 40.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "對範圍內的敵人造成【10.0 + 10.0*技能等級 + 0.8 *atk】的物理傷害\n   \n範圍 : 325",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "公主浪花飛濺",
+                "點心時間",
+                "遮陽傘突擊",
+                "海中珍味之力",
+                "海中珍味之力+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "鈴": {
+        "document": {
+            "CV": "小岩井ことり",
+            "age": "17",
+            "birthday": "1月1日",
+            "bloodtype": "B",
+            "hight": "144",
+            "hobby": "紅豆麵包",
+            "intro": "【物理】中衛，能加強物理攻擊的怕麻煩的少女。 能同時提升己方的物理攻擊力及魔法防禦，能同時支援隊伍的攻守兩方。",
+            "name": "鈴",
+            "raise": "獸人族",
+            "weight": "42"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102611.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%88%B4",
+        "skill": {
+            "info": [
+                "  \r\n小幅度提升己方全體的 HP，並小幅度的提升物理攻擊力與魔法防禦力。\r\n \r\n回復我方全體【2.25 + 2.25*技能等級 + atk】的HP\r\n   \r\n提升我方全體【6.0 + 6.0*技能等級 】的物理攻擊力\r\n\r\n持續時間: 18.0 秒\r\n   \r\n提升我方全體【0.7 + 0.7*技能等級 】的魔法防禦力\r\n\r\n持續時間: 18.0 秒\r\n   ",
+                "  \r\n大幅度提升自己周圍所有己方人員的魔法防禦力。\r\n \r\n提升範圍內的我方【1.2 + 1.2*技能等級 】的魔法防禦力\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 150\r\n",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害，並且使敵人暈眩。\r\n \r\n對敵方單體造成【6.0 + 6.0*技能等級 + 0.4 *atk】的物理傷害\r\n   \r\n使敵方單體一段時間內無法行動\r\n \r\n持續時間: 2.5 秒\r\n  ",
+                "  \r\n戰鬥開始時，中幅度提升自己的魔法防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的魔法防禦力。\r\n \r\n提升自身【32.0 + 2.0*技能等級 】的魔法防禦力\r\n   ",
+                "  \r\n自分の周囲の味方すべての魔法防御力を大アップさせ、さらに物理攻撃力を中アップ、物理クリティカルを小アップさせる。\r\n \r\n範囲内の味方の魔法防御力を【1.4 + 1.4*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 250\r\n\r\n範囲内の味方の物理攻撃力を【15.0 + 15.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 250\r\n\r\n範囲内の味方の物理クリティカルを【50.0 + 0.0*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   \r\n範圍 : 250\r\n"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "手工紅豆麵包充能",
+                "吉人天相模式",
+                "投擲橡子",
+                "栗子充能",
+                "栗子充能+",
+                "果報は寝て待てモード+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "膨大な魔力を内包する伝説のドング リが装飾された首飾り。リンの放つ 魔法を増幅し、周囲の味方を大きく 力づける。",
+            "name": "ジュエリズムドングリ",
+            "status": [
+                "物理防禦",
+                "2.0 (15)",
+                "魔法防禦",
+                "3.0 (23)",
+                "物理攻撃力",
+                "60.0 (447)",
+                "回復量上升",
+                "10.0 (75)"
+            ]
+        }
+    },
+    "鈴奈": {
+        "document": {
+            "CV": "上坂すみれ",
+            "age": "18",
+            "birthday": "4月10日",
+            "bloodtype": "O",
+            "hight": "167",
+            "hobby": "時尚",
+            "intro": "【物理】會從後衛進行暴擊攻擊的超人氣模特兒。 暴擊的傷害不僅能使傷害增倍，再加上還能靠技能提升攻擊力，使破壞力更甚。",
+            "name": "鈴奈",
+            "raise": "魔族",
+            "weight": "48"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101611.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%88%B4%E5%A5%88",
+        "skill": {
+            "info": [
+                "對敵方單體造成【45.0 + 45.0*技能等級 + 4.0 *atk】的物理傷害",
+                "對敵方單體造成【12.0 + 12.0*技能等級 + 0.9 *atk】的物理傷害",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\n\n持續時間: 12.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的物理攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的物理攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "心碎",
+                "激怒噗飛鏢",
+                "魅力氛圍♪",
+                "可愛感覺",
+                "可愛感覺+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "鈴莓": {
+        "document": {
+            "CV": "悠木碧",
+            "age": "15",
+            "birthday": "12月12日",
+            "bloodtype": "O",
+            "hight": "154",
+            "hobby": "服侍",
+            "intro": "【魔法】位於後衛，同時擅長恢復擊攻擊的冒失女僕。 可一邊恢復己方 HP 一邊提高物理攻擊力的技能，適合與負責攻擊的中衛、後衛搭配。",
+            "name": "鈴莓",
+            "raise": "人族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_102511.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%88%B4%E8%8E%93",
+        "skill": {
+            "info": [
+                "對範圍內的敵人造成【13.5 + 13.5*技能等級 + 1.08 *atk】的魔法傷害\n   \n範圍 : 1100",
+                "對範圍內的敵人造成【9.0 + 9.0*技能等級 + 0.72 *atk】的魔法傷害\n   \n範圍 : 900",
+                "回復範圍內的我方【2.5 + 2.5*技能等級 + atk】的HP\n   \n範圍 : 300",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "狂風暴雨",
+                "狂風炸裂",
+                "女僕的聲援",
+                "女僕精神",
+                "女僕精神+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "鈴莓（夏日）": {
+        "document": {
+            "CV": "悠木碧",
+            "age": "15",
+            "birthday": "12月12日",
+            "bloodtype": "O",
+            "hight": "154",
+            "hobby": "服侍",
+            "intro": "【魔法】位於後衛擁有優秀的防衛能力，夏天的冒失女僕。 除可提升我方全體的防禦力及施加持續恢復HP的狀態外， 更可呼叫如城牆般的魔像，替戰線帶來支援。",
+            "name": "鈴莓（夏日）",
+            "raise": "人族",
+            "weight": "43"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_107731.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%88%B4%E8%8E%93%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89",
+        "skill": {
+            "info": [
+                "提升我方全體【0.45 + 0.45*技能等級 】的物理防禦力\n\n持續時間: 18.0 秒",
+                "召喚小魔像",
+                "",
+                "提升自身【2.0 + 2.0*技能等級 】的魔法防禦力",
+                "提升自身【2.0 + 2.0*技能等級 】的魔法防禦力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "熱帶假期",
+                "召喚迷你魔像",
+                "蘇打聲援",
+                "熱帶女僕",
+                "熱帶女僕+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "鏡華": {
+        "document": {
+            "CV": "小倉唯",
+            "age": "8",
+            "birthday": "2月2日",
+            "bloodtype": "A",
+            "hight": "118",
+            "hobby": "讀書",
+            "intro": "【魔法】位於後衛，能施以強力的魔法攻擊，是一個小小優等生。 藉由技能，能瞬間提高魔法攻擊力後施放「宇宙藍色閃光」，對單方敵人的威力卓越。",
+            "name": "鏡華",
+            "raise": "精靈族",
+            "weight": "21"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_103631.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%8F%A1%E8%8F%AF",
+        "skill": {
+            "info": [
+                "對敵方單體造成【60.0 + 60.0*技能等級 + 5.0 *atk】的魔法傷害",
+                "對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的魔法傷害",
+                "提升自身【28.0 + 28.0*技能等級 】的魔法攻擊力\n\n持續時間: 9.0 秒",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【240.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "宇宙藍色閃光",
+                "冰槍術",
+                "魔力增幅",
+                "小小的勇氣",
+                "小小的勇氣+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "雪": {
+        "document": {
+            "CV": "大空直美",
+            "age": "14",
+            "birthday": "10月10日",
+            "bloodtype": "AB",
+            "hight": "150",
+            "hobby": "欣賞鏡中的自已",
+            "intro": "【魔法】位於後衛，能輔助物理隊伍，是個活生生的藝術品。 除了能提早發動己方必殺技的技能，還擁有能使敵人陷入黑暗狀態，藉此封鎖敵人物理攻擊的技能。",
+            "name": "雪",
+            "raise": "精靈族",
+            "weight": "40"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_100811.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%9B%AA",
+        "skill": {
+            "info": [
+                "對敵方全體造成【4.5 + 4.5*技能等級 + 0.405 *atk】的魔法傷害",
+                "對敵方單體造成【15.0 + 15.0*技能等級 + 1.2 *atk】的魔法傷害",
+                "回復我方單體【75.0 + 2.5*技能等級 】的TP",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力",
+                "提升自身【15.0 + 15.0*技能等級 】的魔法攻擊力"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "臣服於我的美之下吧！",
+                "我這雙眸美到令人眩目♪",
+                "可愛的我來聲援囉♪",
+                "可愛的我會加油的唷",
+                "可愛的我會加油的唷+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "霞": {
+        "document": {
+            "CV": "水瀨いのり",
+            "age": "15",
+            "birthday": "11月3日",
+            "bloodtype": "AB",
+            "hight": "152",
+            "hobby": "讀書、推理",
+            "intro": "test",
+            "name": "霞",
+            "raise": "獸人族",
+            "weight": "41"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101431.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%9C%9E",
+        "skill": {
+            "info": [
+                "",
+                "範囲内の敵に【3.4 + 3.4*技能等級 + 0.27 *atk】の魔法ダメージ\n   \n範圍 : 800",
+                "敵単体に【8.0 + 8.0*技能等級 + 0.6 *atk】の魔法ダメージ",
+                "自分の魔法防御力を【2.0 + 2.0*技能等級 】アップ",
+                "自分の魔法防御力を【32.0 + 2.0*技能等級 】アップ"
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ],
+            "name": [
+                "クリミナルプリズン",
+                "ルートオブバインド",
+                "ミスリードバレット",
+                "ディテクティブマインド",
+                "ディテクティブマインド+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_ap02.png"
+            ]
+        },
+        "specialitem": {
+            "intro": null,
+            "name": null,
+            "status": null
+        }
+    },
+    "靜流": {
+        "document": {
+            "CV": "生天目仁美",
+            "age": "18",
+            "birthday": "10月24日",
+            "bloodtype": "O",
+            "hight": "168",
+            "hobby": "所有家事",
+            "intro": "【物理】位於前衛，可守護己方免於物理攻擊，是一位姊姊。 一般技能可以展開物理無效的屏障，不僅能夠保護同伴全員，還能再於自身添加物理吸收屏障，進而挺身討伐敵方前衛。",
+            "name": "靜流",
+            "raise": "人族",
+            "weight": "54"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_104931.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%9D%9C%E6%B5%81",
+        "skill": {
+            "info": [
+                "  \r\n對面前 1 名敵人造成大幅度的物理傷害，進而對自己展開物理屏障。\r\n \r\n對敵方單體造成【45.0 + 45.0*技能等級 + 3.6 *atk】的物理傷害\r\n   \r\n展開可吸收【10.0 + 10.0*技能等級 】傷害量的物理吸收護盾\r\n   ",
+                "  \r\n中幅度恢復 HP 最低的 1 名己方角色的 HP。\r\n \r\n回復我方單體【7.5 + 7.5*技能等級 + atk】的HP\r\n   ",
+                "  \r\n對自己周圍的己方展開物理無效的屏障。\r\n \r\n展開【6.0 + 6.0*技能等級 】傷害量的物理無效護盾\r\n   \r\n範圍 : 150\r\n",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理防禦力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的物理防禦力\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理防禦力，並小幅度提升自己的物理攻擊力。\r\n \r\n提升自身【2.0 + 2.0*技能等級 】的物理防禦力\r\n   \r\n提升自身【225.0 + 0.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n中幅度恢復 HP 最低的 1 名夥伴的 HP，並大幅度提升其物理防禦力。\r\n \r\n味方単体のＨＰを【7.5 + 7.5*技能等級 + atk】回復\r\n   \r\n味方単体の物理防御力を【0.8 + 0.8*技能等級 】アップ\r\n\r\n持續時間: 12.0 秒\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "神聖懲處",
+                "聖者治療",
+                "守護",
+                "姊姊的力量",
+                "姊姊的力量+",
+                "聖者治療+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "シズル愛用の十字剣。 弱き者を助けたいと願う気高き魂が 剣に宿る時、防御の術式が発動し、 対象を守護する。",
+            "name": "セイクリッドブレード",
+            "status": [
+                "物理防禦",
+                "6.0 (45)",
+                "物理攻撃力",
+                "64.0 (477)",
+                "回復量上升",
+                "5.0 (38)"
+            ]
+        }
+    },
+    "香織": {
+        "document": {
+            "CV": "高森奈津美",
+            "age": "19",
+            "birthday": "7月7日",
+            "bloodtype": "A",
+            "hight": "158",
+            "hobby": "跳舞、空手道",
+            "intro": "【物理】在最前線利用累積技能賺傷害的南國少女。 一旦發動「精神統一」技能，香織的攻擊會隨次數 對敵人累積效果，後續的攻擊會逐漸增加。",
+            "name": "香織",
+            "raise": "獸人族",
+            "weight": "53"
+        },
+        "icon": "https://pcredivewiki.tw/static/images/unit/icon_unit_101711.png",
+        "link": "https://pcredivewiki.tw/Character/Detial/%E9%A6%99%E7%B9%94",
+        "skill": {
+            "info": [
+                "  \r\n對面前的 1 名敵人造成特大幅度的物理傷害。\r\n \r\n對敵方單體造成【60.0 + 60.0*技能等級 + 4.8 *atk】的物理傷害\r\n   ",
+                "  \r\n對面前的 1 名敵人造成中幅度的物理傷害。\r\n \r\n對敵方單體造成【20.0 + 20.0*技能等級 + 1.6 *atk】的物理傷害\r\n   ",
+                "  \r\n使用此技能後，每一次香織攻擊敵人時，都會加強對敵人造成的傷害。此效果最多累積次數為 5 回。\r\n \r\n每次攻擊增加【10.0 + 10.0*技能等級 】的傷害\r\n   ",
+                "  \r\n戰鬥開始時，中幅度提升自己的物理攻擊力。\r\n \r\n提升自身【15.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n戰鬥開始時，大幅度提升自己的物理攻擊力。\r\n \r\n提升自身【240.0 + 15.0*技能等級 】的物理攻擊力\r\n   ",
+                "  \r\n目の前の敵１キャラに物理大ダメージを与える。\r\n \r\n敵単体に【30.0 + 30.0*技能等級 + 2.3 *atk】の物理ダメージ\r\n   "
+            ],
+            "loop": [
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ],
+            "name": [
+                "琉球犬矢之拳",
+                "正中路突擊",
+                "精神統一",
+                "琉球犬式練氣術",
+                "琉球犬式練氣術+",
+                "正中線突き+"
+            ],
+            "startup": [
+                "/static/images/skill/icon_skill_ap02.png",
+                "/static/images/skill/icon_skill_ap01.png",
+                "/static/images/skill/icon_skill_attack.png",
+                "/static/images/skill/icon_skill_ap01.png"
+            ]
+        },
+        "specialitem": {
+            "intro": "カオリが使う琉球空手の奥義が記さ れた巻物。特殊な術式により、達人 の練気にのみ反応して文字が浮かび あがるという。",
+            "name": "球陽唐手秘伝ノ書",
+            "status": [
+                "物理攻撃力",
+                "94.0 (701)",
+                "物理暴擊",
+                "20.0 (149)"
+            ]
+        }
+    }
+}

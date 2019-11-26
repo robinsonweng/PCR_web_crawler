@@ -1,0 +1,298 @@
+{
+    "アヤネ（クリスマス）": [
+        "/static/images/unit/icon_unit_108631.png",
+        "/Character/Detial/%E3%82%A2%E3%83%A4%E3%83%8D%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89"
+    ],
+    "エリコ（バレンタイン）": [
+        "/static/images/unit/icon_unit_109011.png",
+        "/Character/Detial/%E3%82%A8%E3%83%AA%E3%82%B3%EF%BC%88%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%EF%BC%89"
+    ],
+    "クルミ（クリスマス）": [
+        "/static/images/unit/icon_unit_108511.png",
+        "/Character/Detial/%E3%82%AF%E3%83%AB%E3%83%9F%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89"
+    ],
+    "シズル（バレンタイン）": [
+        "/static/images/unit/icon_unit_109131.png",
+        "/Character/Detial/%E3%82%B7%E3%82%BA%E3%83%AB%EF%BC%88%E3%83%90%E3%83%AC%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%B3%EF%BC%89"
+    ],
+    "チカ（クリスマス）": [
+        "/static/images/unit/icon_unit_108431.png",
+        "/Character/Detial/%E3%83%81%E3%82%AB%EF%BC%88%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%EF%BC%89"
+    ],
+    "ナナカ": [
+        "/static/images/unit/icon_unit_101311.png",
+        "/Character/Detial/%E3%83%8A%E3%83%8A%E3%82%AB"
+    ],
+    "ヒヨリ（ニューイヤー）": [
+        "/static/images/unit/icon_unit_108731.png",
+        "/Character/Detial/%E3%83%92%E3%83%A8%E3%83%AA%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    ],
+    "ムイミ": [
+        "/static/images/unit/icon_unit_106131.png",
+        "/Character/Detial/%E3%83%A0%E3%82%A4%E3%83%9F"
+    ],
+    "ユイ（ニューイヤー）": [
+        "/static/images/unit/icon_unit_108831.png",
+        "/Character/Detial/%E3%83%A6%E3%82%A4%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    ],
+    "レイ（ニューイヤー）": [
+        "/static/images/unit/icon_unit_108911.png",
+        "/Character/Detial/%E3%83%AC%E3%82%A4%EF%BC%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%A4%E3%83%BC%EF%BC%89"
+    ],
+    "亞里莎": [
+        "/static/images/unit/icon_unit_106331.png",
+        "/Character/Detial/%E4%BA%9E%E9%87%8C%E8%8E%8E"
+    ],
+    "伊緒": [
+        "/static/images/unit/icon_unit_101831.png",
+        "/Character/Detial/%E4%BC%8A%E7%B7%92"
+    ],
+    "伊莉亞": [
+        "/static/images/unit/icon_unit_104431.png",
+        "/Character/Detial/%E4%BC%8A%E8%8E%89%E4%BA%9E"
+    ],
+    "依里": [
+        "/static/images/unit/icon_unit_102211.png",
+        "/Character/Detial/%E4%BE%9D%E9%87%8C"
+    ],
+    "優花梨": [
+        "/static/images/unit/icon_unit_103411.png",
+        "/Character/Detial/%E5%84%AA%E8%8A%B1%E6%A2%A8"
+    ],
+    "優衣": [
+        "/static/images/unit/icon_unit_100211.png",
+        "/Character/Detial/%E5%84%AA%E8%A1%A3"
+    ],
+    "克莉絲提娜": [
+        "/static/images/unit/icon_unit_107131.png",
+        "/Character/Detial/%E5%85%8B%E8%8E%89%E7%B5%B2%E6%8F%90%E5%A8%9C"
+    ],
+    "凱留": [
+        "/static/images/unit/icon_unit_106011.png",
+        "/Character/Detial/%E5%87%B1%E7%95%99"
+    ],
+    "凱留（夏日）": [
+        "/static/images/unit/icon_unit_107831.png",
+        "/Character/Detial/%E5%87%B1%E7%95%99%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "初音": [
+        "/static/images/unit/icon_unit_101231.png",
+        "/Character/Detial/%E5%88%9D%E9%9F%B3"
+    ],
+    "千歌": [
+        "/static/images/unit/icon_unit_104211.png",
+        "/Character/Detial/%E5%8D%83%E6%AD%8C"
+    ],
+    "可可蘿": [
+        "/static/images/unit/icon_unit_105911.png",
+        "/Character/Detial/%E5%8F%AF%E5%8F%AF%E8%98%BF"
+    ],
+    "可可蘿（夏日）": [
+        "/static/images/unit/icon_unit_107611.png",
+        "/Character/Detial/%E5%8F%AF%E5%8F%AF%E8%98%BF%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "吉塔": [
+        "/static/images/unit/icon_unit_105731.png",
+        "/Character/Detial/%E5%90%89%E5%A1%94"
+    ],
+    "咲戀": [
+        "/static/images/unit/icon_unit_102831.png",
+        "/Character/Detial/%E5%92%B2%E6%88%80"
+    ],
+    "妮諾": [
+        "/static/images/unit/icon_unit_103031.png",
+        "/Character/Detial/%E5%A6%AE%E8%AB%BE"
+    ],
+    "宮子": [
+        "/static/images/unit/icon_unit_100711.png",
+        "/Character/Detial/%E5%AE%AE%E5%AD%90"
+    ],
+    "宮子（萬聖節）": [
+        "/static/images/unit/icon_unit_108211.png",
+        "/Character/Detial/%E5%AE%AE%E5%AD%90%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89"
+    ],
+    "忍": [
+        "/static/images/unit/icon_unit_103111.png",
+        "/Character/Detial/%E5%BF%8D"
+    ],
+    "忍（萬聖節）": [
+        "/static/images/unit/icon_unit_108131.png",
+        "/Character/Detial/%E5%BF%8D%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89"
+    ],
+    "怜": [
+        "/static/images/unit/icon_unit_100311.png",
+        "/Character/Detial/%E6%80%9C"
+    ],
+    "惠理子": [
+        "/static/images/unit/icon_unit_102711.png",
+        "/Character/Detial/%E6%83%A0%E7%90%86%E5%AD%90"
+    ],
+    "日和": [
+        "/static/images/unit/icon_unit_100111.png",
+        "/Character/Detial/%E6%97%A5%E5%92%8C"
+    ],
+    "智": [
+        "/static/images/unit/icon_unit_103731.png",
+        "/Character/Detial/%E6%99%BA"
+    ],
+    "望": [
+        "/static/images/unit/icon_unit_102931.png",
+        "/Character/Detial/%E6%9C%9B"
+    ],
+    "杏奈": [
+        "/static/images/unit/icon_unit_100931.png",
+        "/Character/Detial/%E6%9D%8F%E5%A5%88"
+    ],
+    "栞": [
+        "/static/images/unit/icon_unit_103811.png",
+        "/Character/Detial/%E6%A0%9E"
+    ],
+    "流夏": [
+        "/static/images/unit/icon_unit_105631.png",
+        "/Character/Detial/%E6%B5%81%E5%A4%8F"
+    ],
+    "深月": [
+        "/static/images/unit/icon_unit_105111.png",
+        "/Character/Detial/%E6%B7%B1%E6%9C%88"
+    ],
+    "珠希": [
+        "/static/images/unit/icon_unit_104611.png",
+        "/Character/Detial/%E7%8F%A0%E5%B8%8C"
+    ],
+    "珠希（夏日）": [
+        "/static/images/unit/icon_unit_107931.png",
+        "/Character/Detial/%E7%8F%A0%E5%B8%8C%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "璃乃": [
+        "/static/images/unit/icon_unit_101131.png",
+        "/Character/Detial/%E7%92%83%E4%B9%83"
+    ],
+    "真步": [
+        "/static/images/unit/icon_unit_101031.png",
+        "/Character/Detial/%E7%9C%9F%E6%AD%A5"
+    ],
+    "真琴": [
+        "/static/images/unit/icon_unit_104331.png",
+        "/Character/Detial/%E7%9C%9F%E7%90%B4"
+    ],
+    "真陽": [
+        "/static/images/unit/icon_unit_103311.png",
+        "/Character/Detial/%E7%9C%9F%E9%99%BD"
+    ],
+    "碧": [
+        "/static/images/unit/icon_unit_104011.png",
+        "/Character/Detial/%E7%A2%A7"
+    ],
+    "禊": [
+        "/static/images/unit/icon_unit_100411.png",
+        "/Character/Detial/%E7%A6%8A"
+    ],
+    "秋乃": [
+        "/static/images/unit/icon_unit_103231.png",
+        "/Character/Detial/%E7%A7%8B%E4%B9%83"
+    ],
+    "空花": [
+        "/static/images/unit/icon_unit_104511.png",
+        "/Character/Detial/%E7%A9%BA%E8%8A%B1"
+    ],
+    "純": [
+        "/static/images/unit/icon_unit_104731.png",
+        "/Character/Detial/%E7%B4%94"
+    ],
+    "紡希": [
+        "/static/images/unit/icon_unit_105411.png",
+        "/Character/Detial/%E7%B4%A1%E5%B8%8C"
+    ],
+    "綾音": [
+        "/static/images/unit/icon_unit_102311.png",
+        "/Character/Detial/%E7%B6%BE%E9%9F%B3"
+    ],
+    "美冬": [
+        "/static/images/unit/icon_unit_104811.png",
+        "/Character/Detial/%E7%BE%8E%E5%86%AC"
+    ],
+    "美冬（夏日）": [
+        "/static/images/unit/icon_unit_108011.png",
+        "/Character/Detial/%E7%BE%8E%E5%86%AC%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "美咲": [
+        "/static/images/unit/icon_unit_105011.png",
+        "/Character/Detial/%E7%BE%8E%E5%92%B2"
+    ],
+    "美咲（萬聖節）": [
+        "/static/images/unit/icon_unit_108331.png",
+        "/Character/Detial/%E7%BE%8E%E5%92%B2%EF%BC%88%E8%90%AC%E8%81%96%E7%AF%80%EF%BC%89"
+    ],
+    "美美": [
+        "/static/images/unit/icon_unit_102011.png",
+        "/Character/Detial/%E7%BE%8E%E7%BE%8E"
+    ],
+    "美里": [
+        "/static/images/unit/icon_unit_101511.png",
+        "/Character/Detial/%E7%BE%8E%E9%87%8C"
+    ],
+    "胡桃": [
+        "/static/images/unit/icon_unit_102111.png",
+        "/Character/Detial/%E8%83%A1%E6%A1%83"
+    ],
+    "茉莉": [
+        "/static/images/unit/icon_unit_100511.png",
+        "/Character/Detial/%E8%8C%89%E8%8E%89"
+    ],
+    "茜里": [
+        "/static/images/unit/icon_unit_100611.png",
+        "/Character/Detial/%E8%8C%9C%E9%87%8C"
+    ],
+    "莉瑪": [
+        "/static/images/unit/icon_unit_105211.png",
+        "/Character/Detial/%E8%8E%89%E7%91%AA"
+    ],
+    "莫妮卡": [
+        "/static/images/unit/icon_unit_105331.png",
+        "/Character/Detial/%E8%8E%AB%E5%A6%AE%E5%8D%A1"
+    ],
+    "貪吃佩可": [
+        "/static/images/unit/icon_unit_105811.png",
+        "/Character/Detial/%E8%B2%AA%E5%90%83%E4%BD%A9%E5%8F%AF"
+    ],
+    "貪吃佩可（夏日）": [
+        "/static/images/unit/icon_unit_107531.png",
+        "/Character/Detial/%E8%B2%AA%E5%90%83%E4%BD%A9%E5%8F%AF%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "鈴": [
+        "/static/images/unit/icon_unit_102611.png",
+        "/Character/Detial/%E9%88%B4"
+    ],
+    "鈴奈": [
+        "/static/images/unit/icon_unit_101611.png",
+        "/Character/Detial/%E9%88%B4%E5%A5%88"
+    ],
+    "鈴莓": [
+        "/static/images/unit/icon_unit_102511.png",
+        "/Character/Detial/%E9%88%B4%E8%8E%93"
+    ],
+    "鈴莓（夏日）": [
+        "/static/images/unit/icon_unit_107731.png",
+        "/Character/Detial/%E9%88%B4%E8%8E%93%EF%BC%88%E5%A4%8F%E6%97%A5%EF%BC%89"
+    ],
+    "鏡華": [
+        "/static/images/unit/icon_unit_103631.png",
+        "/Character/Detial/%E9%8F%A1%E8%8F%AF"
+    ],
+    "雪": [
+        "/static/images/unit/icon_unit_100811.png",
+        "/Character/Detial/%E9%9B%AA"
+    ],
+    "霞": [
+        "/static/images/unit/icon_unit_101431.png",
+        "/Character/Detial/%E9%9C%9E"
+    ],
+    "靜流": [
+        "/static/images/unit/icon_unit_104931.png",
+        "/Character/Detial/%E9%9D%9C%E6%B5%81"
+    ],
+    "香織": [
+        "/static/images/unit/icon_unit_101711.png",
+        "/Character/Detial/%E9%A6%99%E7%B9%94"
+    ]
+}
