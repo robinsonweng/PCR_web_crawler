@@ -1,9 +1,8 @@
 #抓入https://pcredivewiki.tw/ 的檔案
 from bs4 import BeautifulSoup
-from discord.ext import commands
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import discord, asyncio, re, time, requests, json, io, colorama
+import asyncio, re, time, requests, json, io, colorama
 
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36'}
